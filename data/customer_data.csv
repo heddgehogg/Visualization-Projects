@@ -1,0 +1,3901 @@
+Customer ID,Customer Segmentation,Seasonal Trends,Delivery Time,Number of Items Purchased
+1,Loyal,Christmas present,4,1
+2,Loyal,Christmas present,15,7
+3,New,Summer preperation,8,3
+4,New,Christmas present,2,9
+5,Loyal,Pre-fall shopping,20,2
+6,VIP,Christmas present,23,4
+7,Loyal,Christmas present,24,4
+8,New,Summer preperation,5,8
+9,Loyal,Back to school,3,6
+10,New,Summer preperation,24,7
+11,Loyal,Back to school,29,3
+12,New,Summer preperation,15,5
+13,Loyal,Christmas present,23,4
+14,New,Christmas present,26,3
+15,Loyal,Pre-fall shopping,9,6
+16,New,Back to school,14,1
+17,New,Pre-fall shopping,8,9
+18,VIP,Pre-fall shopping,19,2
+19,Loyal,Back to school,15,3
+20,New,Summer preperation,25,4
+21,VIP,Back to school,2,7
+22,VIP,Back to school,27,6
+23,Loyal,Pre-fall shopping,24,8
+24,New,Pre-fall shopping,9,3
+25,New,Pre-fall shopping,23,1
+26,VIP,Summer preperation,18,5
+27,VIP,Summer preperation,24,7
+28,New,Christmas present,27,4
+29,Loyal,Summer preperation,18,1
+30,VIP,Summer preperation,9,4
+31,New,Pre-fall shopping,5,2
+32,VIP,Pre-fall shopping,26,6
+33,VIP,Pre-fall shopping,4,6
+34,New,Christmas present,6,2
+35,VIP,Pre-fall shopping,25,1
+36,Loyal,Back to school,24,6
+37,VIP,Summer preperation,19,1
+38,New,Summer preperation,19,8
+39,New,Pre-fall shopping,7,8
+40,VIP,Back to school,28,2
+41,Loyal,Summer preperation,2,5
+42,New,Back to school,30,3
+43,VIP,Summer preperation,20,8
+44,Loyal,Christmas present,22,8
+45,Loyal,Back to school,12,7
+46,New,Pre-fall shopping,14,1
+47,VIP,Back to school,29,4
+48,New,Back to school,28,9
+49,New,Pre-fall shopping,9,1
+50,VIP,Christmas present,26,8
+51,Loyal,Summer preperation,12,4
+52,Loyal,Christmas present,17,9
+53,New,Summer preperation,15,9
+54,New,Back to school,17,9
+55,VIP,Back to school,5,2
+56,VIP,Christmas present,15,9
+57,New,Summer preperation,4,3
+58,New,Summer preperation,2,4
+59,Loyal,Back to school,13,3
+60,Loyal,Back to school,16,5
+61,Loyal,Christmas present,16,3
+62,Loyal,Pre-fall shopping,28,5
+63,Loyal,Pre-fall shopping,10,2
+64,New,Christmas present,29,8
+65,Loyal,Back to school,26,6
+66,New,Pre-fall shopping,25,6
+67,VIP,Back to school,24,3
+68,VIP,Summer preperation,4,8
+69,Loyal,Christmas present,3,3
+70,VIP,Christmas present,9,4
+71,New,Pre-fall shopping,2,3
+72,VIP,Back to school,25,4
+73,New,Summer preperation,8,6
+74,VIP,Pre-fall shopping,27,7
+75,VIP,Pre-fall shopping,29,6
+76,VIP,Pre-fall shopping,7,5
+77,VIP,Christmas present,8,6
+78,VIP,Back to school,30,1
+79,VIP,Summer preperation,17,1
+80,Loyal,Back to school,28,7
+81,New,Pre-fall shopping,27,9
+82,VIP,Back to school,24,4
+83,VIP,Summer preperation,24,2
+84,VIP,Pre-fall shopping,29,4
+85,VIP,Summer preperation,20,5
+86,New,Back to school,17,7
+87,VIP,Christmas present,13,1
+88,Loyal,Summer preperation,12,6
+89,Loyal,Christmas present,3,8
+90,New,Christmas present,23,4
+91,VIP,Back to school,30,6
+92,Loyal,Summer preperation,8,9
+93,VIP,Christmas present,13,9
+94,Loyal,Back to school,25,1
+95,VIP,Pre-fall shopping,19,4
+96,New,Pre-fall shopping,26,2
+97,New,Summer preperation,3,4
+98,VIP,Christmas present,28,1
+99,VIP,Pre-fall shopping,22,1
+100,Loyal,Summer preperation,30,4
+101,VIP,Summer preperation,3,9
+102,Loyal,Pre-fall shopping,6,4
+103,New,Summer preperation,6,1
+104,VIP,Pre-fall shopping,23,2
+105,New,Christmas present,10,7
+106,VIP,Back to school,5,6
+107,VIP,Summer preperation,6,8
+108,New,Pre-fall shopping,5,3
+109,Loyal,Back to school,25,6
+110,Loyal,Pre-fall shopping,12,1
+111,New,Pre-fall shopping,24,6
+112,VIP,Pre-fall shopping,14,7
+113,Loyal,Summer preperation,21,8
+114,New,Pre-fall shopping,16,4
+115,New,Back to school,24,9
+116,VIP,Christmas present,16,5
+117,Loyal,Pre-fall shopping,17,7
+118,VIP,Christmas present,17,7
+119,VIP,Back to school,24,7
+120,New,Summer preperation,22,2
+121,Loyal,Summer preperation,16,2
+122,VIP,Summer preperation,4,7
+123,Loyal,Christmas present,10,1
+124,Loyal,Pre-fall shopping,26,8
+125,Loyal,Summer preperation,10,5
+126,New,Christmas present,21,5
+127,VIP,Christmas present,20,2
+128,Loyal,Summer preperation,18,7
+129,New,Back to school,11,8
+130,VIP,Back to school,8,5
+131,New,Pre-fall shopping,20,7
+132,VIP,Back to school,2,3
+133,New,Christmas present,26,8
+134,Loyal,Christmas present,4,8
+135,VIP,Pre-fall shopping,28,1
+136,New,Summer preperation,23,8
+137,VIP,Christmas present,22,4
+138,Loyal,Summer preperation,11,6
+139,New,Pre-fall shopping,6,3
+140,New,Back to school,21,4
+141,VIP,Pre-fall shopping,7,6
+142,VIP,Summer preperation,9,1
+143,Loyal,Christmas present,11,2
+144,New,Christmas present,28,9
+145,VIP,Back to school,15,6
+146,Loyal,Back to school,10,2
+147,New,Pre-fall shopping,26,8
+148,New,Summer preperation,3,6
+149,Loyal,Christmas present,15,1
+150,Loyal,Christmas present,6,8
+151,Loyal,Christmas present,16,1
+152,New,Summer preperation,8,3
+153,New,Pre-fall shopping,3,5
+154,New,Summer preperation,28,2
+155,New,Pre-fall shopping,5,3
+156,Loyal,Christmas present,28,7
+157,New,Pre-fall shopping,27,3
+158,VIP,Back to school,23,6
+159,New,Christmas present,15,9
+160,VIP,Christmas present,18,9
+161,Loyal,Christmas present,5,9
+162,VIP,Back to school,18,2
+163,VIP,Pre-fall shopping,16,5
+164,VIP,Pre-fall shopping,19,4
+165,VIP,Christmas present,4,5
+166,New,Summer preperation,21,5
+167,VIP,Christmas present,7,8
+168,VIP,Pre-fall shopping,23,7
+169,New,Back to school,26,5
+170,VIP,Christmas present,5,3
+171,VIP,Back to school,4,8
+172,Loyal,Summer preperation,11,7
+173,VIP,Pre-fall shopping,29,6
+174,New,Summer preperation,7,9
+175,VIP,Back to school,13,5
+176,New,Pre-fall shopping,18,3
+177,New,Christmas present,22,5
+178,VIP,Christmas present,26,8
+179,New,Summer preperation,17,3
+180,Loyal,Pre-fall shopping,6,3
+181,New,Summer preperation,27,1
+182,Loyal,Pre-fall shopping,16,4
+183,Loyal,Pre-fall shopping,15,4
+184,New,Back to school,10,8
+185,VIP,Pre-fall shopping,27,2
+186,VIP,Pre-fall shopping,18,6
+187,New,Christmas present,9,7
+188,New,Christmas present,16,5
+189,New,Pre-fall shopping,9,3
+190,New,Back to school,18,6
+191,Loyal,Christmas present,27,8
+192,New,Christmas present,10,5
+193,Loyal,Christmas present,16,3
+194,VIP,Summer preperation,18,7
+195,New,Pre-fall shopping,26,2
+196,Loyal,Pre-fall shopping,21,2
+197,Loyal,Back to school,20,9
+198,New,Pre-fall shopping,22,8
+199,New,Back to school,5,9
+200,New,Summer preperation,18,3
+201,New,Pre-fall shopping,9,4
+202,New,Christmas present,8,4
+203,Loyal,Pre-fall shopping,18,3
+204,VIP,Back to school,22,7
+205,VIP,Summer preperation,26,9
+206,New,Summer preperation,12,8
+207,New,Back to school,2,5
+208,New,Pre-fall shopping,16,8
+209,VIP,Pre-fall shopping,29,2
+210,Loyal,Summer preperation,15,6
+211,VIP,Pre-fall shopping,13,4
+212,New,Back to school,19,1
+213,New,Pre-fall shopping,11,5
+214,New,Christmas present,12,9
+215,Loyal,Summer preperation,20,5
+216,VIP,Back to school,29,2
+217,New,Back to school,24,2
+218,VIP,Back to school,26,5
+219,VIP,Summer preperation,26,2
+220,VIP,Summer preperation,13,4
+221,VIP,Summer preperation,4,9
+222,Loyal,Pre-fall shopping,27,2
+223,VIP,Summer preperation,23,9
+224,Loyal,Pre-fall shopping,25,4
+225,Loyal,Christmas present,25,7
+226,Loyal,Back to school,8,3
+227,Loyal,Summer preperation,25,6
+228,Loyal,Christmas present,28,7
+229,New,Pre-fall shopping,30,9
+230,New,Christmas present,11,1
+231,New,Christmas present,28,4
+232,VIP,Pre-fall shopping,24,4
+233,New,Summer preperation,22,2
+234,VIP,Pre-fall shopping,24,5
+235,Loyal,Summer preperation,2,3
+236,VIP,Pre-fall shopping,9,7
+237,VIP,Back to school,14,3
+238,Loyal,Summer preperation,28,8
+239,Loyal,Christmas present,20,5
+240,New,Christmas present,10,4
+241,Loyal,Christmas present,20,7
+242,Loyal,Pre-fall shopping,3,3
+243,New,Back to school,25,6
+244,Loyal,Back to school,3,8
+245,VIP,Pre-fall shopping,6,7
+246,Loyal,Pre-fall shopping,6,9
+247,VIP,Summer preperation,26,6
+248,VIP,Back to school,11,5
+249,New,Summer preperation,20,6
+250,Loyal,Christmas present,9,8
+251,Loyal,Back to school,3,7
+252,VIP,Christmas present,23,2
+253,VIP,Summer preperation,14,3
+254,Loyal,Back to school,4,5
+255,VIP,Christmas present,24,3
+256,VIP,Back to school,30,5
+257,New,Back to school,21,8
+258,New,Back to school,10,2
+259,Loyal,Christmas present,2,8
+260,New,Christmas present,14,6
+261,Loyal,Pre-fall shopping,10,8
+262,VIP,Summer preperation,13,2
+263,Loyal,Summer preperation,22,9
+264,New,Pre-fall shopping,11,4
+265,New,Summer preperation,13,3
+266,VIP,Summer preperation,6,7
+267,VIP,Back to school,20,7
+268,Loyal,Pre-fall shopping,16,9
+269,Loyal,Christmas present,15,4
+270,New,Summer preperation,15,3
+271,VIP,Summer preperation,30,5
+272,New,Christmas present,17,7
+273,New,Summer preperation,18,7
+274,New,Back to school,26,8
+275,Loyal,Summer preperation,11,1
+276,VIP,Back to school,2,6
+277,VIP,Back to school,12,7
+278,New,Pre-fall shopping,6,2
+279,VIP,Back to school,29,9
+280,Loyal,Back to school,28,7
+281,New,Pre-fall shopping,24,4
+282,VIP,Christmas present,15,5
+283,New,Back to school,10,3
+284,New,Christmas present,9,2
+285,New,Christmas present,13,1
+286,VIP,Back to school,3,4
+287,New,Christmas present,10,3
+288,VIP,Back to school,26,8
+289,VIP,Pre-fall shopping,21,2
+290,New,Christmas present,21,6
+291,Loyal,Summer preperation,21,7
+292,VIP,Back to school,25,5
+293,VIP,Summer preperation,23,6
+294,VIP,Pre-fall shopping,19,1
+295,VIP,Back to school,29,4
+296,Loyal,Summer preperation,5,9
+297,Loyal,Summer preperation,20,9
+298,VIP,Summer preperation,9,8
+299,Loyal,Back to school,20,8
+300,Loyal,Back to school,6,4
+301,VIP,Back to school,23,4
+302,VIP,Summer preperation,9,6
+303,Loyal,Pre-fall shopping,17,3
+304,Loyal,Summer preperation,21,6
+305,VIP,Back to school,2,1
+306,VIP,Back to school,21,1
+307,New,Pre-fall shopping,9,8
+308,Loyal,Back to school,11,9
+309,New,Pre-fall shopping,12,4
+310,VIP,Pre-fall shopping,17,3
+311,Loyal,Summer preperation,19,9
+312,VIP,Pre-fall shopping,17,8
+313,Loyal,Summer preperation,4,1
+314,New,Summer preperation,24,4
+315,Loyal,Pre-fall shopping,24,5
+316,VIP,Summer preperation,29,6
+317,New,Pre-fall shopping,19,7
+318,VIP,Christmas present,6,2
+319,VIP,Summer preperation,20,9
+320,VIP,Back to school,14,2
+321,New,Back to school,14,8
+322,Loyal,Back to school,11,4
+323,Loyal,Christmas present,30,1
+324,VIP,Pre-fall shopping,6,6
+325,New,Pre-fall shopping,29,9
+326,New,Back to school,15,5
+327,New,Back to school,10,3
+328,New,Christmas present,23,3
+329,Loyal,Back to school,25,8
+330,New,Summer preperation,18,2
+331,New,Pre-fall shopping,9,8
+332,VIP,Christmas present,25,2
+333,Loyal,Summer preperation,16,3
+334,Loyal,Back to school,27,3
+335,New,Summer preperation,14,2
+336,VIP,Pre-fall shopping,29,8
+337,VIP,Back to school,24,9
+338,VIP,Christmas present,29,2
+339,New,Christmas present,20,9
+340,Loyal,Pre-fall shopping,24,1
+341,Loyal,Back to school,10,7
+342,VIP,Summer preperation,16,1
+343,VIP,Back to school,30,9
+344,New,Back to school,13,7
+345,Loyal,Summer preperation,28,4
+346,New,Christmas present,26,1
+347,VIP,Pre-fall shopping,3,8
+348,VIP,Summer preperation,25,3
+349,VIP,Christmas present,12,7
+350,Loyal,Back to school,6,4
+351,Loyal,Pre-fall shopping,2,5
+352,Loyal,Christmas present,5,5
+353,VIP,Pre-fall shopping,3,5
+354,New,Summer preperation,22,6
+355,New,Back to school,22,8
+356,Loyal,Summer preperation,7,7
+357,New,Pre-fall shopping,25,6
+358,Loyal,Pre-fall shopping,3,5
+359,Loyal,Summer preperation,27,5
+360,Loyal,Pre-fall shopping,26,7
+361,New,Pre-fall shopping,19,1
+362,VIP,Pre-fall shopping,9,8
+363,New,Summer preperation,28,2
+364,VIP,Pre-fall shopping,14,1
+365,Loyal,Summer preperation,27,7
+366,VIP,Christmas present,25,9
+367,New,Back to school,17,4
+368,New,Summer preperation,5,1
+369,New,Summer preperation,7,7
+370,Loyal,Summer preperation,10,9
+371,New,Summer preperation,6,4
+372,Loyal,Christmas present,29,1
+373,VIP,Christmas present,4,2
+374,Loyal,Pre-fall shopping,10,9
+375,VIP,Summer preperation,19,6
+376,Loyal,Pre-fall shopping,7,6
+377,VIP,Pre-fall shopping,4,2
+378,New,Summer preperation,4,5
+379,Loyal,Back to school,11,8
+380,New,Pre-fall shopping,18,1
+381,VIP,Christmas present,3,3
+382,Loyal,Back to school,23,9
+383,VIP,Christmas present,10,7
+384,New,Summer preperation,10,5
+385,VIP,Pre-fall shopping,17,8
+386,Loyal,Back to school,17,5
+387,VIP,Summer preperation,22,2
+388,VIP,Pre-fall shopping,15,6
+389,VIP,Pre-fall shopping,4,7
+390,VIP,Christmas present,10,1
+391,New,Back to school,4,8
+392,New,Christmas present,25,8
+393,Loyal,Christmas present,6,2
+394,Loyal,Back to school,20,5
+395,Loyal,Pre-fall shopping,13,9
+396,Loyal,Christmas present,29,3
+397,Loyal,Pre-fall shopping,25,6
+398,Loyal,Pre-fall shopping,28,4
+399,Loyal,Christmas present,28,3
+400,Loyal,Pre-fall shopping,28,4
+401,New,Summer preperation,16,5
+402,Loyal,Summer preperation,7,5
+403,New,Summer preperation,2,7
+404,New,Christmas present,3,8
+405,New,Back to school,17,9
+406,Loyal,Christmas present,20,4
+407,New,Christmas present,21,8
+408,VIP,Back to school,7,2
+409,Loyal,Back to school,3,7
+410,VIP,Christmas present,2,9
+411,New,Back to school,16,1
+412,Loyal,Pre-fall shopping,18,9
+413,VIP,Summer preperation,30,7
+414,Loyal,Christmas present,7,1
+415,VIP,Pre-fall shopping,7,3
+416,Loyal,Christmas present,9,6
+417,Loyal,Summer preperation,2,2
+418,Loyal,Pre-fall shopping,10,7
+419,VIP,Back to school,24,8
+420,VIP,Christmas present,6,2
+421,Loyal,Summer preperation,7,4
+422,VIP,Pre-fall shopping,22,6
+423,New,Summer preperation,25,1
+424,Loyal,Summer preperation,7,3
+425,Loyal,Summer preperation,26,7
+426,Loyal,Back to school,19,6
+427,New,Summer preperation,11,6
+428,Loyal,Christmas present,17,8
+429,Loyal,Christmas present,3,6
+430,New,Pre-fall shopping,21,8
+431,VIP,Christmas present,14,7
+432,VIP,Summer preperation,15,5
+433,New,Summer preperation,23,9
+434,VIP,Christmas present,13,5
+435,Loyal,Back to school,5,6
+436,Loyal,Christmas present,16,5
+437,VIP,Summer preperation,9,4
+438,VIP,Summer preperation,20,6
+439,New,Christmas present,11,3
+440,VIP,Summer preperation,8,1
+441,Loyal,Pre-fall shopping,16,6
+442,Loyal,Summer preperation,29,8
+443,VIP,Back to school,10,3
+444,Loyal,Back to school,12,3
+445,VIP,Summer preperation,10,7
+446,New,Christmas present,10,3
+447,VIP,Summer preperation,19,6
+448,VIP,Back to school,14,1
+449,VIP,Christmas present,14,9
+450,VIP,Summer preperation,18,3
+451,New,Back to school,17,2
+452,Loyal,Summer preperation,25,8
+453,VIP,Back to school,17,6
+454,New,Back to school,5,9
+455,New,Back to school,5,3
+456,New,Back to school,14,8
+457,VIP,Pre-fall shopping,29,7
+458,New,Pre-fall shopping,12,4
+459,VIP,Back to school,22,1
+460,Loyal,Summer preperation,29,9
+461,VIP,Back to school,2,5
+462,New,Back to school,27,9
+463,VIP,Back to school,9,6
+464,New,Pre-fall shopping,14,5
+465,VIP,Christmas present,26,2
+466,New,Back to school,12,7
+467,New,Summer preperation,22,2
+468,Loyal,Summer preperation,12,1
+469,New,Back to school,9,4
+470,Loyal,Back to school,4,1
+471,VIP,Back to school,7,9
+472,VIP,Christmas present,23,2
+473,New,Back to school,27,1
+474,VIP,Pre-fall shopping,15,8
+475,New,Summer preperation,9,5
+476,Loyal,Christmas present,9,3
+477,New,Christmas present,13,8
+478,Loyal,Pre-fall shopping,14,6
+479,Loyal,Pre-fall shopping,22,9
+480,New,Summer preperation,22,7
+481,VIP,Pre-fall shopping,20,2
+482,New,Pre-fall shopping,12,5
+483,Loyal,Christmas present,27,2
+484,VIP,Summer preperation,9,8
+485,VIP,Back to school,28,6
+486,Loyal,Back to school,3,5
+487,New,Pre-fall shopping,26,4
+488,VIP,Christmas present,21,1
+489,Loyal,Pre-fall shopping,18,6
+490,New,Back to school,13,9
+491,New,Summer preperation,25,8
+492,New,Christmas present,2,9
+493,Loyal,Back to school,18,4
+494,Loyal,Back to school,26,2
+495,Loyal,Summer preperation,30,3
+496,Loyal,Summer preperation,5,4
+497,VIP,Christmas present,4,2
+498,Loyal,Back to school,5,2
+499,VIP,Christmas present,15,3
+500,New,Summer preperation,26,5
+501,Loyal,Back to school,30,8
+502,Loyal,Christmas present,12,3
+503,VIP,Summer preperation,13,3
+504,Loyal,Pre-fall shopping,7,2
+505,Loyal,Back to school,22,1
+506,New,Summer preperation,6,6
+507,VIP,Back to school,22,9
+508,Loyal,Christmas present,12,7
+509,New,Christmas present,25,7
+510,VIP,Summer preperation,10,2
+511,New,Back to school,6,4
+512,New,Summer preperation,3,4
+513,New,Back to school,27,3
+514,New,Pre-fall shopping,30,3
+515,New,Summer preperation,7,7
+516,VIP,Christmas present,28,1
+517,New,Christmas present,8,1
+518,Loyal,Christmas present,5,2
+519,Loyal,Summer preperation,24,1
+520,New,Christmas present,20,3
+521,New,Back to school,5,6
+522,Loyal,Back to school,11,1
+523,VIP,Pre-fall shopping,23,7
+524,New,Pre-fall shopping,12,5
+525,New,Christmas present,2,5
+526,New,Summer preperation,10,4
+527,Loyal,Summer preperation,3,8
+528,Loyal,Summer preperation,18,9
+529,New,Pre-fall shopping,14,7
+530,New,Summer preperation,6,1
+531,VIP,Back to school,18,9
+532,Loyal,Back to school,11,5
+533,VIP,Back to school,26,6
+534,Loyal,Christmas present,18,2
+535,New,Pre-fall shopping,23,2
+536,New,Summer preperation,15,9
+537,Loyal,Back to school,12,1
+538,Loyal,Christmas present,9,1
+539,Loyal,Back to school,2,3
+540,New,Pre-fall shopping,11,4
+541,VIP,Summer preperation,10,2
+542,New,Pre-fall shopping,27,8
+543,VIP,Back to school,23,8
+544,New,Back to school,22,1
+545,Loyal,Pre-fall shopping,17,3
+546,Loyal,Back to school,16,4
+547,New,Summer preperation,28,7
+548,New,Christmas present,17,1
+549,New,Pre-fall shopping,21,3
+550,VIP,Christmas present,19,5
+551,New,Christmas present,5,1
+552,Loyal,Back to school,6,2
+553,Loyal,Back to school,25,2
+554,New,Back to school,27,1
+555,VIP,Summer preperation,24,3
+556,Loyal,Christmas present,10,6
+557,VIP,Christmas present,14,6
+558,VIP,Christmas present,11,8
+559,VIP,Christmas present,15,4
+560,VIP,Christmas present,7,2
+561,VIP,Back to school,21,9
+562,New,Pre-fall shopping,19,2
+563,Loyal,Christmas present,23,7
+564,VIP,Summer preperation,6,5
+565,New,Christmas present,27,4
+566,Loyal,Christmas present,29,8
+567,New,Pre-fall shopping,24,4
+568,Loyal,Pre-fall shopping,2,1
+569,VIP,Pre-fall shopping,10,8
+570,New,Christmas present,15,2
+571,VIP,Pre-fall shopping,29,5
+572,New,Back to school,19,5
+573,New,Back to school,13,5
+574,Loyal,Pre-fall shopping,24,4
+575,Loyal,Summer preperation,7,7
+576,VIP,Christmas present,17,6
+577,New,Back to school,27,4
+578,New,Pre-fall shopping,11,5
+579,Loyal,Summer preperation,28,6
+580,VIP,Christmas present,7,1
+581,New,Christmas present,17,4
+582,Loyal,Back to school,6,8
+583,New,Summer preperation,2,1
+584,Loyal,Summer preperation,14,8
+585,Loyal,Back to school,11,2
+586,VIP,Pre-fall shopping,14,3
+587,VIP,Christmas present,13,6
+588,VIP,Summer preperation,26,3
+589,New,Christmas present,16,3
+590,Loyal,Back to school,25,4
+591,Loyal,Christmas present,16,6
+592,VIP,Summer preperation,28,6
+593,New,Back to school,21,2
+594,New,Summer preperation,7,9
+595,Loyal,Christmas present,22,8
+596,Loyal,Summer preperation,6,8
+597,Loyal,Summer preperation,29,6
+598,Loyal,Summer preperation,26,1
+599,VIP,Back to school,29,5
+600,New,Pre-fall shopping,29,2
+601,New,Christmas present,15,1
+602,Loyal,Back to school,25,6
+603,New,Back to school,19,7
+604,New,Summer preperation,19,3
+605,VIP,Back to school,11,5
+606,VIP,Christmas present,5,1
+607,New,Pre-fall shopping,7,4
+608,VIP,Summer preperation,16,3
+609,Loyal,Christmas present,2,5
+610,Loyal,Summer preperation,6,3
+611,Loyal,Christmas present,12,8
+612,VIP,Summer preperation,9,7
+613,Loyal,Christmas present,16,1
+614,VIP,Summer preperation,27,5
+615,Loyal,Pre-fall shopping,2,4
+616,New,Back to school,3,1
+617,New,Pre-fall shopping,13,6
+618,Loyal,Summer preperation,15,4
+619,New,Back to school,21,7
+620,VIP,Back to school,16,4
+621,VIP,Back to school,12,8
+622,VIP,Back to school,10,6
+623,New,Pre-fall shopping,3,6
+624,Loyal,Back to school,2,2
+625,Loyal,Pre-fall shopping,5,4
+626,Loyal,Summer preperation,30,3
+627,VIP,Christmas present,27,3
+628,Loyal,Pre-fall shopping,27,2
+629,VIP,Christmas present,28,4
+630,Loyal,Pre-fall shopping,12,9
+631,New,Christmas present,7,5
+632,Loyal,Pre-fall shopping,10,1
+633,VIP,Back to school,16,6
+634,VIP,Christmas present,22,3
+635,VIP,Pre-fall shopping,25,4
+636,New,Back to school,28,5
+637,New,Summer preperation,20,7
+638,New,Summer preperation,14,8
+639,VIP,Summer preperation,22,6
+640,VIP,Pre-fall shopping,2,2
+641,VIP,Back to school,11,7
+642,New,Summer preperation,5,9
+643,New,Back to school,15,4
+644,VIP,Summer preperation,6,8
+645,Loyal,Christmas present,18,2
+646,VIP,Back to school,29,9
+647,VIP,Pre-fall shopping,27,8
+648,New,Summer preperation,12,1
+649,VIP,Summer preperation,14,8
+650,New,Christmas present,24,3
+651,Loyal,Christmas present,19,8
+652,New,Summer preperation,24,3
+653,New,Back to school,17,3
+654,Loyal,Summer preperation,22,3
+655,VIP,Christmas present,9,8
+656,New,Pre-fall shopping,16,2
+657,VIP,Summer preperation,26,9
+658,Loyal,Back to school,29,1
+659,VIP,Christmas present,2,1
+660,VIP,Back to school,14,9
+661,Loyal,Back to school,20,3
+662,VIP,Summer preperation,3,3
+663,Loyal,Christmas present,17,3
+664,New,Pre-fall shopping,2,2
+665,Loyal,Christmas present,13,9
+666,Loyal,Christmas present,27,7
+667,VIP,Back to school,24,1
+668,New,Back to school,16,4
+669,VIP,Christmas present,22,6
+670,New,Back to school,5,6
+671,Loyal,Summer preperation,27,6
+672,New,Christmas present,28,1
+673,VIP,Summer preperation,20,7
+674,New,Back to school,14,6
+675,VIP,Pre-fall shopping,8,8
+676,VIP,Back to school,24,1
+677,New,Christmas present,29,9
+678,New,Summer preperation,25,4
+679,New,Pre-fall shopping,30,9
+680,VIP,Summer preperation,13,3
+681,VIP,Summer preperation,2,5
+682,Loyal,Summer preperation,13,5
+683,New,Christmas present,23,3
+684,New,Back to school,8,2
+685,Loyal,Summer preperation,17,7
+686,Loyal,Pre-fall shopping,26,2
+687,New,Back to school,3,5
+688,VIP,Pre-fall shopping,10,3
+689,New,Pre-fall shopping,13,6
+690,Loyal,Pre-fall shopping,7,8
+691,VIP,Summer preperation,10,9
+692,New,Pre-fall shopping,7,3
+693,VIP,Christmas present,30,1
+694,New,Christmas present,18,2
+695,Loyal,Summer preperation,23,6
+696,New,Back to school,19,3
+697,New,Pre-fall shopping,20,9
+698,Loyal,Back to school,21,3
+699,Loyal,Pre-fall shopping,4,7
+700,VIP,Christmas present,11,6
+701,VIP,Christmas present,15,8
+702,New,Christmas present,3,8
+703,Loyal,Summer preperation,29,6
+704,Loyal,Back to school,30,2
+705,Loyal,Summer preperation,16,9
+706,New,Pre-fall shopping,20,5
+707,New,Summer preperation,25,3
+708,Loyal,Back to school,24,1
+709,New,Summer preperation,24,4
+710,Loyal,Pre-fall shopping,12,4
+711,Loyal,Christmas present,19,6
+712,Loyal,Pre-fall shopping,27,8
+713,New,Pre-fall shopping,18,2
+714,VIP,Back to school,3,6
+715,VIP,Summer preperation,25,6
+716,VIP,Pre-fall shopping,11,1
+717,VIP,Pre-fall shopping,28,2
+718,VIP,Summer preperation,26,9
+719,New,Summer preperation,10,8
+720,Loyal,Back to school,17,7
+721,Loyal,Christmas present,21,4
+722,New,Back to school,6,5
+723,VIP,Pre-fall shopping,3,4
+724,New,Back to school,11,8
+725,VIP,Back to school,5,9
+726,New,Pre-fall shopping,2,5
+727,New,Pre-fall shopping,19,4
+728,VIP,Christmas present,3,2
+729,VIP,Back to school,24,8
+730,Loyal,Summer preperation,4,9
+731,Loyal,Pre-fall shopping,5,2
+732,New,Christmas present,23,4
+733,VIP,Christmas present,24,6
+734,VIP,Summer preperation,26,8
+735,New,Christmas present,5,3
+736,New,Pre-fall shopping,18,1
+737,VIP,Pre-fall shopping,29,5
+738,VIP,Pre-fall shopping,4,8
+739,VIP,Back to school,8,8
+740,Loyal,Back to school,5,1
+741,VIP,Back to school,19,4
+742,VIP,Back to school,5,2
+743,VIP,Back to school,24,6
+744,New,Summer preperation,4,8
+745,VIP,Back to school,5,3
+746,New,Pre-fall shopping,17,5
+747,New,Summer preperation,5,2
+748,Loyal,Christmas present,29,5
+749,New,Christmas present,9,2
+750,VIP,Christmas present,23,3
+751,VIP,Summer preperation,19,2
+752,Loyal,Back to school,10,2
+753,Loyal,Pre-fall shopping,22,3
+754,New,Summer preperation,3,8
+755,New,Summer preperation,5,6
+756,Loyal,Back to school,7,8
+757,VIP,Back to school,26,4
+758,New,Back to school,8,4
+759,New,Pre-fall shopping,9,3
+760,Loyal,Summer preperation,20,1
+761,Loyal,Pre-fall shopping,3,6
+762,New,Christmas present,23,8
+763,VIP,Christmas present,23,6
+764,Loyal,Back to school,2,1
+765,New,Christmas present,7,3
+766,Loyal,Pre-fall shopping,8,2
+767,Loyal,Pre-fall shopping,20,2
+768,VIP,Summer preperation,16,9
+769,New,Pre-fall shopping,21,8
+770,Loyal,Pre-fall shopping,20,2
+771,New,Christmas present,9,1
+772,Loyal,Pre-fall shopping,23,4
+773,Loyal,Christmas present,18,8
+774,New,Christmas present,25,5
+775,New,Christmas present,30,6
+776,Loyal,Pre-fall shopping,8,1
+777,New,Pre-fall shopping,27,5
+778,VIP,Back to school,19,6
+779,VIP,Back to school,18,2
+780,VIP,Pre-fall shopping,27,6
+781,New,Summer preperation,6,6
+782,New,Back to school,18,8
+783,Loyal,Pre-fall shopping,20,7
+784,New,Pre-fall shopping,7,1
+785,New,Pre-fall shopping,5,6
+786,New,Pre-fall shopping,25,9
+787,New,Summer preperation,3,1
+788,Loyal,Pre-fall shopping,30,9
+789,New,Back to school,27,7
+790,New,Back to school,10,8
+791,New,Back to school,9,9
+792,New,Pre-fall shopping,20,7
+793,Loyal,Pre-fall shopping,22,6
+794,New,Christmas present,15,4
+795,VIP,Christmas present,26,1
+796,New,Back to school,7,7
+797,Loyal,Christmas present,13,5
+798,New,Pre-fall shopping,25,2
+799,Loyal,Christmas present,14,9
+800,Loyal,Pre-fall shopping,14,8
+801,VIP,Pre-fall shopping,12,1
+802,New,Christmas present,2,6
+803,VIP,Summer preperation,25,6
+804,New,Christmas present,8,8
+805,VIP,Christmas present,2,6
+806,New,Back to school,4,6
+807,VIP,Pre-fall shopping,8,9
+808,Loyal,Christmas present,10,2
+809,New,Summer preperation,14,3
+810,Loyal,Christmas present,7,8
+811,VIP,Back to school,4,2
+812,New,Back to school,12,9
+813,New,Summer preperation,25,3
+814,VIP,Christmas present,9,6
+815,VIP,Back to school,16,5
+816,VIP,Christmas present,10,2
+817,VIP,Christmas present,8,3
+818,Loyal,Pre-fall shopping,12,6
+819,New,Summer preperation,5,6
+820,Loyal,Summer preperation,12,2
+821,VIP,Christmas present,9,2
+822,Loyal,Pre-fall shopping,18,3
+823,VIP,Summer preperation,21,3
+824,New,Christmas present,29,3
+825,New,Summer preperation,9,2
+826,Loyal,Christmas present,9,9
+827,Loyal,Christmas present,29,1
+828,New,Christmas present,23,9
+829,Loyal,Pre-fall shopping,27,8
+830,VIP,Christmas present,12,8
+831,New,Pre-fall shopping,9,9
+832,New,Summer preperation,8,4
+833,New,Pre-fall shopping,9,6
+834,New,Summer preperation,17,2
+835,Loyal,Pre-fall shopping,26,6
+836,New,Back to school,7,6
+837,VIP,Pre-fall shopping,12,9
+838,Loyal,Pre-fall shopping,2,6
+839,Loyal,Summer preperation,19,9
+840,VIP,Summer preperation,16,2
+841,VIP,Back to school,6,6
+842,New,Back to school,3,8
+843,VIP,Summer preperation,2,4
+844,Loyal,Pre-fall shopping,2,3
+845,New,Pre-fall shopping,16,2
+846,New,Christmas present,16,5
+847,VIP,Pre-fall shopping,10,6
+848,VIP,Pre-fall shopping,2,1
+849,New,Summer preperation,8,1
+850,New,Back to school,14,1
+851,VIP,Summer preperation,27,2
+852,New,Pre-fall shopping,29,2
+853,New,Christmas present,16,9
+854,Loyal,Christmas present,19,9
+855,New,Back to school,24,7
+856,VIP,Pre-fall shopping,24,4
+857,VIP,Back to school,24,2
+858,Loyal,Christmas present,19,7
+859,VIP,Summer preperation,15,7
+860,VIP,Pre-fall shopping,18,9
+861,Loyal,Pre-fall shopping,21,4
+862,New,Back to school,27,3
+863,Loyal,Pre-fall shopping,29,6
+864,VIP,Pre-fall shopping,10,9
+865,Loyal,Back to school,3,7
+866,New,Summer preperation,7,2
+867,Loyal,Christmas present,12,5
+868,VIP,Summer preperation,21,1
+869,Loyal,Summer preperation,22,8
+870,Loyal,Back to school,18,5
+871,Loyal,Pre-fall shopping,13,7
+872,VIP,Pre-fall shopping,6,9
+873,New,Back to school,2,5
+874,New,Pre-fall shopping,23,2
+875,Loyal,Pre-fall shopping,13,2
+876,New,Pre-fall shopping,2,3
+877,Loyal,Pre-fall shopping,4,1
+878,New,Christmas present,27,8
+879,VIP,Back to school,26,2
+880,Loyal,Pre-fall shopping,8,9
+881,New,Summer preperation,27,5
+882,New,Back to school,27,4
+883,New,Christmas present,15,1
+884,New,Pre-fall shopping,21,3
+885,New,Back to school,12,6
+886,New,Christmas present,11,3
+887,Loyal,Back to school,15,7
+888,Loyal,Back to school,17,8
+889,VIP,Christmas present,7,8
+890,New,Summer preperation,8,5
+891,New,Christmas present,18,8
+892,New,Back to school,10,7
+893,Loyal,Christmas present,7,3
+894,Loyal,Summer preperation,18,8
+895,Loyal,Back to school,6,5
+896,VIP,Summer preperation,27,4
+897,Loyal,Back to school,14,2
+898,New,Back to school,8,8
+899,Loyal,Back to school,26,6
+900,New,Back to school,11,9
+901,VIP,Back to school,8,9
+902,New,Christmas present,13,6
+903,New,Christmas present,20,7
+904,VIP,Summer preperation,13,4
+905,VIP,Pre-fall shopping,27,3
+906,New,Back to school,28,7
+907,New,Pre-fall shopping,5,4
+908,VIP,Christmas present,12,3
+909,VIP,Pre-fall shopping,14,1
+910,Loyal,Pre-fall shopping,17,2
+911,VIP,Summer preperation,18,4
+912,Loyal,Summer preperation,9,7
+913,VIP,Christmas present,27,5
+914,VIP,Pre-fall shopping,3,3
+915,Loyal,Summer preperation,17,1
+916,VIP,Summer preperation,22,4
+917,Loyal,Pre-fall shopping,16,5
+918,New,Back to school,17,1
+919,Loyal,Back to school,16,5
+920,Loyal,Back to school,9,2
+921,New,Summer preperation,27,5
+922,VIP,Christmas present,11,4
+923,VIP,Christmas present,26,2
+924,New,Summer preperation,16,6
+925,VIP,Summer preperation,27,2
+926,New,Summer preperation,13,2
+927,New,Christmas present,9,1
+928,New,Summer preperation,7,5
+929,VIP,Summer preperation,8,6
+930,Loyal,Pre-fall shopping,21,8
+931,VIP,Christmas present,4,7
+932,Loyal,Christmas present,13,6
+933,VIP,Christmas present,28,7
+934,VIP,Summer preperation,2,4
+935,Loyal,Summer preperation,12,4
+936,VIP,Pre-fall shopping,28,1
+937,New,Back to school,29,6
+938,New,Christmas present,27,6
+939,VIP,Back to school,12,1
+940,VIP,Pre-fall shopping,15,2
+941,Loyal,Pre-fall shopping,7,3
+942,Loyal,Christmas present,7,6
+943,VIP,Summer preperation,18,4
+944,VIP,Back to school,18,5
+945,Loyal,Pre-fall shopping,11,3
+946,New,Back to school,26,6
+947,Loyal,Back to school,19,3
+948,Loyal,Back to school,21,9
+949,VIP,Back to school,9,1
+950,VIP,Back to school,13,6
+951,New,Summer preperation,24,1
+952,New,Christmas present,18,8
+953,New,Summer preperation,13,6
+954,New,Summer preperation,27,7
+955,New,Pre-fall shopping,12,7
+956,VIP,Pre-fall shopping,29,7
+957,VIP,Pre-fall shopping,30,5
+958,Loyal,Summer preperation,30,1
+959,VIP,Back to school,13,3
+960,New,Summer preperation,29,4
+961,New,Christmas present,5,2
+962,VIP,Christmas present,20,6
+963,New,Christmas present,27,9
+964,New,Christmas present,18,1
+965,New,Christmas present,20,3
+966,VIP,Pre-fall shopping,9,1
+967,VIP,Back to school,23,1
+968,New,Summer preperation,12,7
+969,New,Pre-fall shopping,18,4
+970,VIP,Summer preperation,11,9
+971,VIP,Pre-fall shopping,8,2
+972,New,Christmas present,23,4
+973,VIP,Back to school,10,3
+974,New,Pre-fall shopping,24,9
+975,New,Summer preperation,13,1
+976,New,Christmas present,5,8
+977,Loyal,Back to school,20,9
+978,VIP,Summer preperation,7,1
+979,VIP,Pre-fall shopping,19,8
+980,VIP,Pre-fall shopping,19,2
+981,VIP,Pre-fall shopping,17,5
+982,New,Christmas present,12,2
+983,VIP,Pre-fall shopping,8,1
+984,VIP,Christmas present,13,1
+985,VIP,Christmas present,18,5
+986,VIP,Christmas present,17,5
+987,VIP,Summer preperation,11,9
+988,Loyal,Pre-fall shopping,19,5
+989,New,Christmas present,14,4
+990,VIP,Back to school,17,7
+991,Loyal,Back to school,2,1
+992,Loyal,Back to school,2,4
+993,VIP,Christmas present,25,6
+994,VIP,Christmas present,6,2
+995,VIP,Pre-fall shopping,13,9
+996,VIP,Christmas present,20,7
+997,Loyal,Christmas present,14,1
+998,Loyal,Back to school,5,8
+999,VIP,Christmas present,8,7
+1000,Loyal,Back to school,19,2
+1001,New,Pre-fall shopping,3,6
+1002,Loyal,Back to school,20,2
+1003,New,Pre-fall shopping,12,4
+1004,VIP,Christmas present,21,8
+1005,Loyal,Back to school,19,8
+1006,New,Summer preperation,5,3
+1007,New,Summer preperation,12,5
+1008,VIP,Summer preperation,4,8
+1009,New,Christmas present,25,5
+1010,Loyal,Back to school,8,5
+1011,Loyal,Back to school,24,3
+1012,Loyal,Summer preperation,20,7
+1013,New,Pre-fall shopping,13,8
+1014,Loyal,Pre-fall shopping,30,1
+1015,New,Summer preperation,22,8
+1016,VIP,Pre-fall shopping,15,6
+1017,VIP,Christmas present,24,6
+1018,VIP,Back to school,6,5
+1019,Loyal,Pre-fall shopping,15,6
+1020,New,Back to school,20,6
+1021,Loyal,Back to school,12,8
+1022,New,Pre-fall shopping,23,1
+1023,Loyal,Back to school,5,8
+1024,New,Back to school,8,2
+1025,New,Back to school,18,9
+1026,New,Summer preperation,23,6
+1027,New,Summer preperation,24,9
+1028,New,Summer preperation,21,9
+1029,Loyal,Summer preperation,19,3
+1030,Loyal,Summer preperation,19,7
+1031,VIP,Pre-fall shopping,21,2
+1032,New,Christmas present,25,3
+1033,New,Pre-fall shopping,25,8
+1034,Loyal,Christmas present,30,5
+1035,Loyal,Back to school,20,4
+1036,New,Back to school,11,8
+1037,New,Summer preperation,19,3
+1038,VIP,Summer preperation,20,8
+1039,VIP,Christmas present,3,7
+1040,New,Summer preperation,23,2
+1041,VIP,Back to school,3,6
+1042,Loyal,Pre-fall shopping,17,5
+1043,New,Pre-fall shopping,24,5
+1044,Loyal,Summer preperation,3,1
+1045,New,Summer preperation,17,4
+1046,Loyal,Summer preperation,17,9
+1047,New,Pre-fall shopping,8,7
+1048,New,Summer preperation,28,4
+1049,New,Back to school,21,1
+1050,New,Pre-fall shopping,22,1
+1051,VIP,Back to school,2,9
+1052,VIP,Pre-fall shopping,15,4
+1053,Loyal,Pre-fall shopping,30,5
+1054,Loyal,Pre-fall shopping,5,6
+1055,New,Back to school,25,9
+1056,Loyal,Back to school,30,4
+1057,VIP,Christmas present,8,3
+1058,New,Summer preperation,21,6
+1059,VIP,Christmas present,9,6
+1060,VIP,Christmas present,18,5
+1061,Loyal,Christmas present,7,4
+1062,New,Summer preperation,19,4
+1063,Loyal,Pre-fall shopping,22,7
+1064,VIP,Summer preperation,10,5
+1065,Loyal,Pre-fall shopping,10,3
+1066,New,Summer preperation,30,9
+1067,Loyal,Summer preperation,29,9
+1068,Loyal,Christmas present,7,3
+1069,New,Back to school,6,5
+1070,Loyal,Summer preperation,10,4
+1071,VIP,Christmas present,16,8
+1072,Loyal,Back to school,23,5
+1073,Loyal,Pre-fall shopping,12,6
+1074,New,Summer preperation,11,2
+1075,New,Pre-fall shopping,13,9
+1076,New,Pre-fall shopping,12,1
+1077,New,Summer preperation,20,9
+1078,New,Christmas present,3,1
+1079,VIP,Christmas present,16,8
+1080,New,Christmas present,29,2
+1081,VIP,Pre-fall shopping,27,9
+1082,Loyal,Back to school,10,8
+1083,New,Christmas present,8,9
+1084,New,Pre-fall shopping,29,6
+1085,Loyal,Christmas present,23,1
+1086,VIP,Pre-fall shopping,7,3
+1087,New,Christmas present,5,6
+1088,VIP,Pre-fall shopping,5,8
+1089,New,Summer preperation,10,6
+1090,VIP,Christmas present,21,4
+1091,VIP,Pre-fall shopping,6,9
+1092,New,Back to school,10,5
+1093,New,Summer preperation,29,8
+1094,Loyal,Summer preperation,19,4
+1095,Loyal,Summer preperation,21,3
+1096,Loyal,Back to school,16,1
+1097,New,Christmas present,28,2
+1098,New,Pre-fall shopping,7,1
+1099,VIP,Pre-fall shopping,15,6
+1100,New,Back to school,10,6
+1101,Loyal,Christmas present,22,7
+1102,Loyal,Christmas present,26,6
+1103,Loyal,Pre-fall shopping,28,8
+1104,Loyal,Back to school,30,4
+1105,New,Back to school,14,7
+1106,Loyal,Back to school,2,2
+1107,Loyal,Summer preperation,22,3
+1108,VIP,Back to school,10,2
+1109,Loyal,Christmas present,14,5
+1110,Loyal,Summer preperation,12,4
+1111,New,Pre-fall shopping,23,8
+1112,Loyal,Summer preperation,15,5
+1113,VIP,Pre-fall shopping,26,8
+1114,VIP,Summer preperation,8,5
+1115,New,Summer preperation,17,1
+1116,VIP,Christmas present,22,3
+1117,New,Back to school,17,7
+1118,New,Christmas present,13,3
+1119,New,Pre-fall shopping,9,2
+1120,VIP,Summer preperation,28,7
+1121,New,Pre-fall shopping,14,1
+1122,VIP,Back to school,18,6
+1123,Loyal,Back to school,24,3
+1124,VIP,Pre-fall shopping,3,5
+1125,VIP,Summer preperation,21,8
+1126,Loyal,Pre-fall shopping,24,4
+1127,VIP,Christmas present,7,8
+1128,VIP,Christmas present,9,9
+1129,New,Summer preperation,19,3
+1130,Loyal,Summer preperation,18,1
+1131,New,Summer preperation,3,4
+1132,New,Back to school,28,3
+1133,VIP,Back to school,24,4
+1134,Loyal,Pre-fall shopping,28,9
+1135,Loyal,Back to school,2,4
+1136,VIP,Pre-fall shopping,22,1
+1137,VIP,Summer preperation,17,2
+1138,New,Christmas present,15,7
+1139,VIP,Pre-fall shopping,21,7
+1140,New,Back to school,9,6
+1141,New,Pre-fall shopping,4,6
+1142,Loyal,Back to school,21,4
+1143,VIP,Back to school,4,8
+1144,New,Christmas present,9,9
+1145,New,Christmas present,27,6
+1146,VIP,Back to school,27,7
+1147,VIP,Pre-fall shopping,11,8
+1148,Loyal,Summer preperation,8,1
+1149,New,Summer preperation,30,7
+1150,New,Back to school,26,3
+1151,Loyal,Christmas present,13,7
+1152,Loyal,Summer preperation,14,4
+1153,New,Christmas present,22,7
+1154,New,Christmas present,6,1
+1155,Loyal,Christmas present,13,8
+1156,VIP,Christmas present,3,4
+1157,New,Summer preperation,27,4
+1158,VIP,Pre-fall shopping,17,3
+1159,Loyal,Back to school,21,2
+1160,Loyal,Summer preperation,9,8
+1161,VIP,Christmas present,23,6
+1162,VIP,Summer preperation,3,4
+1163,VIP,Back to school,16,7
+1164,New,Summer preperation,19,6
+1165,Loyal,Back to school,13,5
+1166,New,Christmas present,5,6
+1167,Loyal,Christmas present,29,4
+1168,VIP,Christmas present,9,7
+1169,VIP,Pre-fall shopping,16,4
+1170,Loyal,Pre-fall shopping,10,5
+1171,VIP,Pre-fall shopping,27,8
+1172,Loyal,Christmas present,13,5
+1173,New,Back to school,28,7
+1174,New,Summer preperation,17,3
+1175,New,Christmas present,22,5
+1176,VIP,Summer preperation,25,5
+1177,Loyal,Back to school,16,7
+1178,VIP,Christmas present,19,4
+1179,New,Christmas present,18,1
+1180,New,Pre-fall shopping,19,8
+1181,Loyal,Pre-fall shopping,17,8
+1182,VIP,Summer preperation,5,2
+1183,VIP,Pre-fall shopping,28,8
+1184,Loyal,Christmas present,16,8
+1185,VIP,Pre-fall shopping,22,9
+1186,New,Summer preperation,14,1
+1187,VIP,Christmas present,29,3
+1188,New,Christmas present,30,6
+1189,New,Christmas present,19,4
+1190,New,Summer preperation,30,1
+1191,New,Pre-fall shopping,27,8
+1192,VIP,Back to school,5,5
+1193,Loyal,Back to school,15,2
+1194,Loyal,Pre-fall shopping,2,9
+1195,New,Back to school,15,8
+1196,Loyal,Summer preperation,29,4
+1197,New,Pre-fall shopping,17,7
+1198,VIP,Summer preperation,9,7
+1199,Loyal,Christmas present,20,2
+1200,VIP,Back to school,29,6
+1201,VIP,Back to school,22,6
+1202,New,Pre-fall shopping,5,8
+1203,New,Summer preperation,13,3
+1204,VIP,Back to school,2,7
+1205,Loyal,Christmas present,14,8
+1206,Loyal,Christmas present,6,8
+1207,Loyal,Pre-fall shopping,19,8
+1208,Loyal,Back to school,23,1
+1209,Loyal,Christmas present,28,5
+1210,New,Christmas present,11,9
+1211,Loyal,Pre-fall shopping,22,7
+1212,Loyal,Summer preperation,13,2
+1213,VIP,Christmas present,30,3
+1214,New,Back to school,17,2
+1215,Loyal,Summer preperation,17,8
+1216,New,Back to school,10,1
+1217,New,Summer preperation,14,3
+1218,VIP,Christmas present,23,6
+1219,VIP,Christmas present,30,8
+1220,Loyal,Pre-fall shopping,25,4
+1221,Loyal,Pre-fall shopping,8,9
+1222,VIP,Pre-fall shopping,13,9
+1223,New,Summer preperation,2,5
+1224,Loyal,Pre-fall shopping,23,5
+1225,VIP,Summer preperation,27,5
+1226,VIP,Back to school,3,1
+1227,VIP,Summer preperation,26,8
+1228,Loyal,Back to school,17,1
+1229,New,Summer preperation,19,2
+1230,VIP,Pre-fall shopping,3,2
+1231,VIP,Christmas present,14,3
+1232,Loyal,Summer preperation,7,1
+1233,New,Christmas present,14,4
+1234,Loyal,Christmas present,3,2
+1235,New,Back to school,14,3
+1236,New,Christmas present,19,8
+1237,Loyal,Christmas present,21,4
+1238,New,Pre-fall shopping,14,7
+1239,New,Back to school,22,6
+1240,New,Summer preperation,25,4
+1241,New,Back to school,17,7
+1242,VIP,Summer preperation,12,9
+1243,New,Pre-fall shopping,26,6
+1244,Loyal,Christmas present,25,3
+1245,Loyal,Pre-fall shopping,28,7
+1246,VIP,Pre-fall shopping,14,8
+1247,New,Christmas present,11,3
+1248,New,Summer preperation,22,8
+1249,VIP,Summer preperation,21,6
+1250,Loyal,Christmas present,17,4
+1251,Loyal,Pre-fall shopping,13,2
+1252,VIP,Pre-fall shopping,23,2
+1253,VIP,Pre-fall shopping,13,6
+1254,Loyal,Christmas present,16,2
+1255,Loyal,Back to school,28,8
+1256,VIP,Summer preperation,16,9
+1257,Loyal,Pre-fall shopping,12,4
+1258,New,Christmas present,22,1
+1259,Loyal,Christmas present,10,7
+1260,Loyal,Pre-fall shopping,18,5
+1261,VIP,Christmas present,11,3
+1262,VIP,Christmas present,19,5
+1263,New,Back to school,2,8
+1264,VIP,Summer preperation,7,5
+1265,New,Pre-fall shopping,30,6
+1266,New,Pre-fall shopping,16,4
+1267,Loyal,Summer preperation,3,7
+1268,New,Pre-fall shopping,13,6
+1269,Loyal,Back to school,28,6
+1270,VIP,Pre-fall shopping,30,6
+1271,Loyal,Back to school,4,7
+1272,New,Christmas present,16,8
+1273,VIP,Summer preperation,5,4
+1274,New,Back to school,20,4
+1275,Loyal,Summer preperation,15,5
+1276,New,Summer preperation,5,9
+1277,Loyal,Summer preperation,29,7
+1278,VIP,Back to school,25,7
+1279,Loyal,Pre-fall shopping,15,9
+1280,New,Back to school,12,2
+1281,Loyal,Pre-fall shopping,20,6
+1282,VIP,Christmas present,18,7
+1283,VIP,Summer preperation,18,7
+1284,VIP,Pre-fall shopping,22,6
+1285,Loyal,Christmas present,16,7
+1286,New,Pre-fall shopping,20,8
+1287,Loyal,Christmas present,26,4
+1288,Loyal,Pre-fall shopping,18,3
+1289,VIP,Christmas present,20,8
+1290,New,Christmas present,15,4
+1291,Loyal,Back to school,26,3
+1292,VIP,Pre-fall shopping,27,7
+1293,New,Pre-fall shopping,19,1
+1294,New,Back to school,7,7
+1295,Loyal,Pre-fall shopping,15,9
+1296,Loyal,Pre-fall shopping,11,3
+1297,VIP,Pre-fall shopping,16,4
+1298,New,Summer preperation,19,5
+1299,New,Christmas present,2,3
+1300,VIP,Pre-fall shopping,22,6
+1301,New,Pre-fall shopping,30,4
+1302,VIP,Pre-fall shopping,3,4
+1303,Loyal,Christmas present,6,9
+1304,New,Christmas present,10,2
+1305,VIP,Pre-fall shopping,10,5
+1306,VIP,Back to school,23,3
+1307,New,Pre-fall shopping,9,6
+1308,VIP,Pre-fall shopping,30,7
+1309,Loyal,Back to school,20,3
+1310,VIP,Pre-fall shopping,8,6
+1311,Loyal,Back to school,24,3
+1312,New,Christmas present,23,1
+1313,New,Pre-fall shopping,6,1
+1314,VIP,Back to school,27,1
+1315,VIP,Summer preperation,8,4
+1316,VIP,Summer preperation,22,1
+1317,New,Christmas present,11,8
+1318,VIP,Summer preperation,28,8
+1319,Loyal,Christmas present,18,1
+1320,Loyal,Christmas present,28,7
+1321,VIP,Christmas present,26,8
+1322,VIP,Pre-fall shopping,15,8
+1323,New,Christmas present,3,9
+1324,VIP,Back to school,9,2
+1325,Loyal,Christmas present,17,1
+1326,VIP,Christmas present,5,8
+1327,Loyal,Christmas present,2,1
+1328,New,Pre-fall shopping,29,5
+1329,Loyal,Pre-fall shopping,26,6
+1330,VIP,Summer preperation,19,2
+1331,VIP,Back to school,8,9
+1332,Loyal,Pre-fall shopping,25,5
+1333,Loyal,Christmas present,4,7
+1334,New,Christmas present,7,6
+1335,VIP,Pre-fall shopping,4,5
+1336,New,Summer preperation,10,4
+1337,Loyal,Christmas present,4,1
+1338,New,Christmas present,5,8
+1339,Loyal,Christmas present,27,6
+1340,VIP,Summer preperation,5,2
+1341,Loyal,Summer preperation,19,4
+1342,Loyal,Summer preperation,13,4
+1343,Loyal,Summer preperation,13,3
+1344,VIP,Christmas present,6,2
+1345,New,Pre-fall shopping,21,2
+1346,New,Summer preperation,11,7
+1347,Loyal,Summer preperation,15,3
+1348,Loyal,Summer preperation,26,7
+1349,New,Pre-fall shopping,18,5
+1350,VIP,Back to school,21,6
+1351,Loyal,Pre-fall shopping,26,7
+1352,Loyal,Pre-fall shopping,30,3
+1353,New,Back to school,14,3
+1354,VIP,Back to school,21,8
+1355,VIP,Summer preperation,19,5
+1356,VIP,Back to school,12,6
+1357,VIP,Christmas present,21,3
+1358,New,Summer preperation,2,8
+1359,VIP,Summer preperation,13,7
+1360,VIP,Back to school,29,3
+1361,VIP,Summer preperation,7,3
+1362,Loyal,Christmas present,27,7
+1363,VIP,Back to school,7,7
+1364,Loyal,Summer preperation,14,4
+1365,VIP,Summer preperation,6,8
+1366,VIP,Christmas present,3,6
+1367,Loyal,Christmas present,25,6
+1368,Loyal,Summer preperation,30,8
+1369,New,Back to school,24,2
+1370,New,Pre-fall shopping,12,1
+1371,Loyal,Pre-fall shopping,11,5
+1372,New,Christmas present,23,8
+1373,New,Pre-fall shopping,5,7
+1374,VIP,Pre-fall shopping,11,7
+1375,VIP,Back to school,12,6
+1376,VIP,Christmas present,18,7
+1377,VIP,Back to school,5,9
+1378,Loyal,Pre-fall shopping,4,2
+1379,Loyal,Summer preperation,18,6
+1380,Loyal,Summer preperation,8,1
+1381,VIP,Christmas present,25,6
+1382,Loyal,Pre-fall shopping,24,2
+1383,VIP,Pre-fall shopping,21,8
+1384,New,Christmas present,13,4
+1385,Loyal,Christmas present,29,8
+1386,New,Christmas present,4,1
+1387,Loyal,Back to school,15,9
+1388,Loyal,Pre-fall shopping,5,4
+1389,Loyal,Pre-fall shopping,9,7
+1390,VIP,Christmas present,23,9
+1391,VIP,Christmas present,15,5
+1392,New,Pre-fall shopping,21,1
+1393,VIP,Christmas present,7,3
+1394,New,Christmas present,22,5
+1395,Loyal,Summer preperation,2,8
+1396,Loyal,Back to school,8,8
+1397,Loyal,Christmas present,20,8
+1398,Loyal,Pre-fall shopping,15,7
+1399,VIP,Back to school,24,4
+1400,New,Christmas present,8,6
+1401,VIP,Pre-fall shopping,11,6
+1402,New,Back to school,24,8
+1403,Loyal,Summer preperation,17,7
+1404,Loyal,Christmas present,7,2
+1405,VIP,Pre-fall shopping,5,7
+1406,VIP,Pre-fall shopping,30,8
+1407,VIP,Pre-fall shopping,27,1
+1408,New,Back to school,19,6
+1409,Loyal,Back to school,18,6
+1410,VIP,Back to school,12,8
+1411,Loyal,Pre-fall shopping,17,4
+1412,VIP,Back to school,3,4
+1413,Loyal,Back to school,5,6
+1414,New,Back to school,24,5
+1415,VIP,Summer preperation,17,5
+1416,VIP,Christmas present,5,9
+1417,VIP,Back to school,4,8
+1418,New,Summer preperation,28,2
+1419,New,Pre-fall shopping,11,5
+1420,VIP,Christmas present,28,8
+1421,New,Summer preperation,4,1
+1422,VIP,Summer preperation,20,5
+1423,Loyal,Christmas present,5,9
+1424,New,Christmas present,11,3
+1425,VIP,Pre-fall shopping,30,1
+1426,Loyal,Pre-fall shopping,17,3
+1427,New,Summer preperation,18,5
+1428,New,Christmas present,29,9
+1429,New,Christmas present,19,1
+1430,Loyal,Back to school,21,3
+1431,New,Back to school,28,1
+1432,New,Christmas present,17,5
+1433,New,Summer preperation,24,9
+1434,New,Christmas present,28,5
+1435,Loyal,Summer preperation,4,6
+1436,New,Christmas present,10,7
+1437,Loyal,Summer preperation,11,1
+1438,Loyal,Back to school,16,4
+1439,VIP,Christmas present,8,8
+1440,New,Summer preperation,28,3
+1441,Loyal,Pre-fall shopping,12,5
+1442,VIP,Christmas present,26,5
+1443,VIP,Summer preperation,3,1
+1444,VIP,Summer preperation,30,8
+1445,VIP,Summer preperation,24,6
+1446,VIP,Back to school,5,9
+1447,Loyal,Summer preperation,29,4
+1448,New,Back to school,30,9
+1449,Loyal,Christmas present,27,7
+1450,New,Back to school,25,7
+1451,Loyal,Pre-fall shopping,25,2
+1452,New,Christmas present,3,8
+1453,New,Back to school,9,4
+1454,Loyal,Pre-fall shopping,3,9
+1455,Loyal,Summer preperation,26,1
+1456,VIP,Summer preperation,10,7
+1457,Loyal,Pre-fall shopping,15,1
+1458,New,Summer preperation,15,2
+1459,VIP,Back to school,23,9
+1460,New,Back to school,7,3
+1461,Loyal,Pre-fall shopping,11,2
+1462,VIP,Summer preperation,15,9
+1463,Loyal,Back to school,25,3
+1464,VIP,Pre-fall shopping,29,8
+1465,Loyal,Back to school,3,4
+1466,New,Christmas present,25,8
+1467,VIP,Christmas present,7,9
+1468,Loyal,Back to school,10,9
+1469,VIP,Summer preperation,5,7
+1470,New,Pre-fall shopping,8,1
+1471,New,Christmas present,10,8
+1472,Loyal,Back to school,18,7
+1473,New,Summer preperation,10,4
+1474,New,Summer preperation,4,2
+1475,VIP,Summer preperation,3,7
+1476,Loyal,Pre-fall shopping,29,2
+1477,New,Pre-fall shopping,25,1
+1478,New,Back to school,23,5
+1479,New,Summer preperation,8,3
+1480,New,Pre-fall shopping,18,1
+1481,VIP,Back to school,10,3
+1482,Loyal,Back to school,23,4
+1483,Loyal,Summer preperation,8,8
+1484,VIP,Christmas present,28,4
+1485,VIP,Summer preperation,11,4
+1486,VIP,Back to school,10,1
+1487,New,Christmas present,13,3
+1488,VIP,Pre-fall shopping,6,6
+1489,VIP,Back to school,14,1
+1490,New,Summer preperation,23,4
+1491,Loyal,Back to school,29,1
+1492,New,Back to school,15,2
+1493,Loyal,Pre-fall shopping,17,9
+1494,Loyal,Summer preperation,9,3
+1495,VIP,Pre-fall shopping,22,5
+1496,Loyal,Summer preperation,12,8
+1497,VIP,Christmas present,8,9
+1498,New,Summer preperation,16,8
+1499,VIP,Back to school,30,9
+1500,Loyal,Christmas present,16,6
+1501,New,Back to school,28,2
+1502,Loyal,Christmas present,23,6
+1503,New,Christmas present,16,5
+1504,VIP,Pre-fall shopping,9,6
+1505,Loyal,Back to school,24,2
+1506,VIP,Back to school,10,4
+1507,Loyal,Pre-fall shopping,28,5
+1508,New,Summer preperation,3,2
+1509,VIP,Summer preperation,28,4
+1510,New,Summer preperation,12,3
+1511,VIP,Back to school,21,1
+1512,VIP,Pre-fall shopping,3,1
+1513,New,Pre-fall shopping,3,2
+1514,Loyal,Summer preperation,16,9
+1515,New,Christmas present,23,1
+1516,VIP,Summer preperation,13,2
+1517,New,Back to school,29,9
+1518,Loyal,Christmas present,27,4
+1519,Loyal,Christmas present,4,7
+1520,VIP,Summer preperation,7,3
+1521,Loyal,Christmas present,15,7
+1522,Loyal,Pre-fall shopping,5,7
+1523,New,Back to school,27,8
+1524,VIP,Christmas present,23,6
+1525,Loyal,Back to school,7,2
+1526,Loyal,Summer preperation,27,8
+1527,VIP,Pre-fall shopping,19,8
+1528,VIP,Back to school,17,1
+1529,Loyal,Christmas present,26,9
+1530,New,Summer preperation,14,4
+1531,New,Pre-fall shopping,15,9
+1532,VIP,Summer preperation,15,4
+1533,Loyal,Pre-fall shopping,24,4
+1534,Loyal,Christmas present,16,3
+1535,VIP,Pre-fall shopping,19,9
+1536,Loyal,Christmas present,4,1
+1537,New,Christmas present,18,5
+1538,New,Pre-fall shopping,15,3
+1539,Loyal,Back to school,10,4
+1540,New,Pre-fall shopping,30,8
+1541,Loyal,Back to school,19,6
+1542,Loyal,Christmas present,8,9
+1543,Loyal,Back to school,15,2
+1544,VIP,Back to school,2,4
+1545,New,Pre-fall shopping,10,9
+1546,Loyal,Christmas present,4,8
+1547,New,Summer preperation,13,8
+1548,Loyal,Pre-fall shopping,4,7
+1549,VIP,Pre-fall shopping,14,1
+1550,Loyal,Back to school,26,4
+1551,VIP,Christmas present,15,2
+1552,Loyal,Back to school,20,1
+1553,VIP,Pre-fall shopping,26,6
+1554,Loyal,Back to school,13,5
+1555,VIP,Christmas present,9,2
+1556,VIP,Pre-fall shopping,26,2
+1557,Loyal,Christmas present,20,3
+1558,VIP,Christmas present,17,2
+1559,VIP,Back to school,26,9
+1560,Loyal,Pre-fall shopping,11,5
+1561,New,Pre-fall shopping,26,9
+1562,VIP,Christmas present,8,7
+1563,Loyal,Summer preperation,28,2
+1564,Loyal,Back to school,2,7
+1565,New,Summer preperation,28,5
+1566,New,Back to school,8,7
+1567,VIP,Pre-fall shopping,19,4
+1568,VIP,Back to school,28,1
+1569,New,Summer preperation,25,8
+1570,Loyal,Summer preperation,5,6
+1571,Loyal,Back to school,29,2
+1572,Loyal,Back to school,26,9
+1573,VIP,Pre-fall shopping,8,1
+1574,VIP,Back to school,19,7
+1575,Loyal,Pre-fall shopping,23,4
+1576,Loyal,Christmas present,18,7
+1577,Loyal,Summer preperation,7,3
+1578,New,Summer preperation,25,8
+1579,Loyal,Christmas present,15,3
+1580,Loyal,Christmas present,2,8
+1581,VIP,Summer preperation,28,2
+1582,New,Back to school,25,9
+1583,Loyal,Back to school,25,6
+1584,VIP,Pre-fall shopping,4,6
+1585,Loyal,Back to school,9,6
+1586,Loyal,Summer preperation,23,2
+1587,VIP,Christmas present,10,8
+1588,New,Summer preperation,23,3
+1589,VIP,Christmas present,4,1
+1590,New,Back to school,25,2
+1591,New,Christmas present,10,2
+1592,New,Christmas present,6,9
+1593,New,Christmas present,11,5
+1594,New,Pre-fall shopping,4,5
+1595,VIP,Christmas present,28,7
+1596,New,Back to school,10,4
+1597,Loyal,Summer preperation,17,5
+1598,Loyal,Summer preperation,8,1
+1599,Loyal,Pre-fall shopping,24,1
+1600,New,Pre-fall shopping,26,4
+1601,New,Summer preperation,6,4
+1602,VIP,Back to school,20,3
+1603,New,Christmas present,11,3
+1604,VIP,Pre-fall shopping,11,6
+1605,New,Pre-fall shopping,29,8
+1606,Loyal,Summer preperation,17,2
+1607,VIP,Back to school,9,5
+1608,New,Back to school,22,1
+1609,VIP,Back to school,13,4
+1610,New,Back to school,7,1
+1611,VIP,Back to school,24,2
+1612,New,Summer preperation,12,3
+1613,VIP,Pre-fall shopping,20,6
+1614,Loyal,Summer preperation,17,4
+1615,VIP,Summer preperation,6,1
+1616,New,Summer preperation,22,2
+1617,New,Pre-fall shopping,5,4
+1618,New,Christmas present,20,8
+1619,New,Summer preperation,6,7
+1620,VIP,Christmas present,3,1
+1621,Loyal,Summer preperation,5,5
+1622,VIP,Summer preperation,26,2
+1623,New,Pre-fall shopping,30,1
+1624,Loyal,Christmas present,26,5
+1625,Loyal,Back to school,10,3
+1626,New,Pre-fall shopping,29,6
+1627,New,Summer preperation,30,9
+1628,VIP,Pre-fall shopping,12,3
+1629,New,Pre-fall shopping,23,8
+1630,New,Back to school,27,2
+1631,VIP,Pre-fall shopping,14,4
+1632,New,Christmas present,14,2
+1633,Loyal,Pre-fall shopping,5,5
+1634,Loyal,Pre-fall shopping,3,9
+1635,VIP,Christmas present,17,1
+1636,VIP,Back to school,3,5
+1637,New,Christmas present,29,2
+1638,VIP,Summer preperation,10,5
+1639,VIP,Christmas present,6,8
+1640,Loyal,Christmas present,10,9
+1641,Loyal,Christmas present,14,7
+1642,New,Summer preperation,5,6
+1643,VIP,Christmas present,12,3
+1644,VIP,Back to school,10,2
+1645,VIP,Back to school,3,3
+1646,VIP,Summer preperation,13,1
+1647,New,Summer preperation,16,6
+1648,Loyal,Summer preperation,27,8
+1649,Loyal,Back to school,28,7
+1650,VIP,Back to school,26,6
+1651,New,Summer preperation,2,5
+1652,VIP,Pre-fall shopping,14,5
+1653,New,Christmas present,9,2
+1654,New,Christmas present,30,3
+1655,Loyal,Pre-fall shopping,24,4
+1656,New,Pre-fall shopping,24,8
+1657,New,Pre-fall shopping,8,1
+1658,New,Christmas present,15,2
+1659,New,Pre-fall shopping,9,5
+1660,VIP,Pre-fall shopping,10,5
+1661,Loyal,Summer preperation,5,9
+1662,VIP,Summer preperation,13,5
+1663,New,Christmas present,4,9
+1664,Loyal,Back to school,25,6
+1665,New,Christmas present,21,7
+1666,VIP,Summer preperation,13,2
+1667,Loyal,Back to school,23,2
+1668,New,Summer preperation,26,4
+1669,VIP,Pre-fall shopping,24,8
+1670,New,Christmas present,15,3
+1671,New,Summer preperation,24,2
+1672,Loyal,Pre-fall shopping,7,1
+1673,VIP,Back to school,25,4
+1674,Loyal,Back to school,23,6
+1675,Loyal,Christmas present,9,4
+1676,VIP,Christmas present,24,8
+1677,Loyal,Back to school,20,6
+1678,Loyal,Christmas present,20,3
+1679,VIP,Pre-fall shopping,26,6
+1680,Loyal,Back to school,22,3
+1681,New,Summer preperation,11,8
+1682,New,Back to school,16,5
+1683,VIP,Summer preperation,19,9
+1684,Loyal,Back to school,30,2
+1685,VIP,Summer preperation,20,4
+1686,New,Christmas present,17,6
+1687,New,Pre-fall shopping,25,3
+1688,New,Back to school,14,9
+1689,New,Back to school,16,4
+1690,New,Christmas present,10,4
+1691,Loyal,Back to school,29,1
+1692,VIP,Summer preperation,4,8
+1693,New,Pre-fall shopping,25,3
+1694,VIP,Christmas present,11,1
+1695,New,Back to school,4,7
+1696,Loyal,Christmas present,17,9
+1697,VIP,Pre-fall shopping,8,2
+1698,New,Pre-fall shopping,15,4
+1699,New,Summer preperation,16,6
+1700,Loyal,Christmas present,13,1
+1701,Loyal,Pre-fall shopping,25,2
+1702,New,Christmas present,30,2
+1703,VIP,Summer preperation,9,8
+1704,Loyal,Pre-fall shopping,6,7
+1705,VIP,Christmas present,6,2
+1706,VIP,Summer preperation,20,4
+1707,VIP,Christmas present,10,8
+1708,VIP,Christmas present,27,9
+1709,VIP,Back to school,26,6
+1710,Loyal,Pre-fall shopping,11,5
+1711,Loyal,Christmas present,6,2
+1712,New,Christmas present,12,9
+1713,VIP,Back to school,27,3
+1714,New,Pre-fall shopping,17,8
+1715,VIP,Back to school,2,8
+1716,New,Pre-fall shopping,17,2
+1717,VIP,Summer preperation,17,7
+1718,Loyal,Back to school,10,4
+1719,Loyal,Back to school,27,8
+1720,VIP,Pre-fall shopping,23,3
+1721,Loyal,Back to school,10,7
+1722,New,Christmas present,14,2
+1723,New,Summer preperation,14,2
+1724,New,Christmas present,20,4
+1725,New,Back to school,19,5
+1726,New,Christmas present,24,4
+1727,Loyal,Summer preperation,10,3
+1728,New,Christmas present,26,4
+1729,VIP,Pre-fall shopping,8,2
+1730,Loyal,Pre-fall shopping,21,8
+1731,VIP,Summer preperation,22,3
+1732,Loyal,Summer preperation,5,1
+1733,Loyal,Summer preperation,3,4
+1734,Loyal,Summer preperation,23,3
+1735,New,Christmas present,3,4
+1736,VIP,Summer preperation,16,5
+1737,Loyal,Summer preperation,16,1
+1738,VIP,Pre-fall shopping,18,1
+1739,VIP,Pre-fall shopping,21,8
+1740,VIP,Christmas present,5,2
+1741,New,Pre-fall shopping,28,7
+1742,New,Christmas present,29,5
+1743,Loyal,Christmas present,7,7
+1744,Loyal,Back to school,3,7
+1745,VIP,Back to school,7,9
+1746,VIP,Back to school,24,6
+1747,Loyal,Pre-fall shopping,4,3
+1748,New,Back to school,28,5
+1749,New,Summer preperation,13,9
+1750,VIP,Back to school,6,1
+1751,VIP,Back to school,22,1
+1752,VIP,Christmas present,14,3
+1753,Loyal,Christmas present,11,5
+1754,VIP,Back to school,19,9
+1755,VIP,Back to school,7,9
+1756,VIP,Back to school,29,9
+1757,VIP,Summer preperation,19,9
+1758,VIP,Summer preperation,30,9
+1759,New,Back to school,25,9
+1760,VIP,Back to school,28,3
+1761,New,Pre-fall shopping,27,8
+1762,Loyal,Summer preperation,13,6
+1763,New,Summer preperation,8,2
+1764,Loyal,Back to school,23,6
+1765,VIP,Summer preperation,14,6
+1766,VIP,Summer preperation,23,9
+1767,New,Summer preperation,15,7
+1768,Loyal,Summer preperation,12,9
+1769,New,Pre-fall shopping,29,8
+1770,New,Pre-fall shopping,19,8
+1771,VIP,Back to school,11,9
+1772,VIP,Back to school,25,4
+1773,VIP,Summer preperation,5,2
+1774,Loyal,Christmas present,10,1
+1775,New,Christmas present,15,9
+1776,New,Pre-fall shopping,7,3
+1777,New,Pre-fall shopping,25,3
+1778,Loyal,Summer preperation,15,2
+1779,Loyal,Pre-fall shopping,11,8
+1780,VIP,Back to school,24,6
+1781,VIP,Summer preperation,7,8
+1782,VIP,Back to school,2,2
+1783,Loyal,Summer preperation,16,8
+1784,VIP,Summer preperation,6,6
+1785,VIP,Christmas present,8,4
+1786,Loyal,Back to school,2,5
+1787,Loyal,Pre-fall shopping,21,6
+1788,New,Christmas present,21,1
+1789,Loyal,Pre-fall shopping,23,7
+1790,New,Pre-fall shopping,15,1
+1791,New,Pre-fall shopping,26,4
+1792,Loyal,Back to school,26,3
+1793,Loyal,Christmas present,5,6
+1794,Loyal,Back to school,9,2
+1795,Loyal,Summer preperation,13,2
+1796,VIP,Back to school,17,7
+1797,New,Back to school,25,3
+1798,VIP,Pre-fall shopping,4,3
+1799,Loyal,Christmas present,9,8
+1800,VIP,Pre-fall shopping,6,9
+1801,VIP,Christmas present,21,9
+1802,New,Summer preperation,11,2
+1803,Loyal,Pre-fall shopping,29,5
+1804,Loyal,Back to school,10,5
+1805,VIP,Pre-fall shopping,6,3
+1806,VIP,Pre-fall shopping,29,4
+1807,VIP,Back to school,7,7
+1808,New,Pre-fall shopping,28,1
+1809,VIP,Summer preperation,18,4
+1810,New,Pre-fall shopping,25,5
+1811,New,Pre-fall shopping,18,9
+1812,New,Back to school,12,5
+1813,Loyal,Pre-fall shopping,23,6
+1814,VIP,Pre-fall shopping,8,9
+1815,Loyal,Pre-fall shopping,9,2
+1816,New,Pre-fall shopping,25,9
+1817,Loyal,Christmas present,16,4
+1818,New,Back to school,20,9
+1819,New,Pre-fall shopping,23,6
+1820,Loyal,Back to school,21,4
+1821,VIP,Back to school,17,7
+1822,Loyal,Back to school,18,9
+1823,New,Christmas present,23,2
+1824,Loyal,Christmas present,20,9
+1825,New,Pre-fall shopping,21,2
+1826,VIP,Pre-fall shopping,9,6
+1827,VIP,Back to school,21,8
+1828,New,Back to school,13,3
+1829,VIP,Back to school,16,8
+1830,VIP,Summer preperation,16,8
+1831,VIP,Pre-fall shopping,10,5
+1832,VIP,Pre-fall shopping,25,6
+1833,Loyal,Back to school,3,2
+1834,Loyal,Summer preperation,6,2
+1835,New,Summer preperation,8,8
+1836,Loyal,Back to school,14,7
+1837,New,Christmas present,17,1
+1838,VIP,Pre-fall shopping,2,6
+1839,New,Pre-fall shopping,23,6
+1840,Loyal,Christmas present,24,4
+1841,New,Pre-fall shopping,16,9
+1842,New,Christmas present,12,4
+1843,VIP,Pre-fall shopping,20,6
+1844,New,Summer preperation,14,5
+1845,Loyal,Summer preperation,26,5
+1846,Loyal,Christmas present,8,2
+1847,VIP,Pre-fall shopping,22,1
+1848,Loyal,Pre-fall shopping,15,7
+1849,VIP,Summer preperation,10,5
+1850,VIP,Christmas present,11,7
+1851,New,Christmas present,26,5
+1852,VIP,Christmas present,24,6
+1853,VIP,Pre-fall shopping,19,8
+1854,Loyal,Christmas present,19,7
+1855,VIP,Summer preperation,3,2
+1856,VIP,Pre-fall shopping,11,6
+1857,New,Back to school,3,9
+1858,New,Pre-fall shopping,14,7
+1859,VIP,Summer preperation,15,9
+1860,Loyal,Christmas present,6,8
+1861,New,Back to school,18,1
+1862,New,Summer preperation,29,4
+1863,Loyal,Summer preperation,16,8
+1864,New,Pre-fall shopping,30,5
+1865,New,Pre-fall shopping,11,8
+1866,Loyal,Back to school,4,7
+1867,New,Back to school,11,8
+1868,Loyal,Christmas present,19,8
+1869,VIP,Back to school,5,4
+1870,New,Pre-fall shopping,30,3
+1871,New,Back to school,19,1
+1872,VIP,Summer preperation,22,1
+1873,Loyal,Summer preperation,9,8
+1874,VIP,Christmas present,30,4
+1875,Loyal,Pre-fall shopping,30,3
+1876,VIP,Pre-fall shopping,11,5
+1877,New,Christmas present,5,9
+1878,New,Summer preperation,4,8
+1879,New,Pre-fall shopping,11,8
+1880,New,Christmas present,21,1
+1881,New,Christmas present,27,5
+1882,VIP,Christmas present,15,1
+1883,VIP,Christmas present,26,5
+1884,Loyal,Pre-fall shopping,10,9
+1885,VIP,Pre-fall shopping,2,4
+1886,VIP,Pre-fall shopping,19,4
+1887,VIP,Pre-fall shopping,24,6
+1888,New,Pre-fall shopping,28,7
+1889,Loyal,Christmas present,2,8
+1890,Loyal,Summer preperation,2,9
+1891,New,Christmas present,20,9
+1892,VIP,Back to school,9,4
+1893,New,Summer preperation,16,9
+1894,New,Christmas present,12,8
+1895,Loyal,Pre-fall shopping,27,6
+1896,Loyal,Back to school,10,5
+1897,Loyal,Christmas present,4,9
+1898,Loyal,Summer preperation,3,8
+1899,VIP,Back to school,12,5
+1900,New,Summer preperation,22,2
+1901,VIP,Summer preperation,30,1
+1902,New,Summer preperation,24,9
+1903,Loyal,Pre-fall shopping,12,8
+1904,New,Back to school,21,3
+1905,Loyal,Back to school,6,3
+1906,Loyal,Christmas present,10,2
+1907,New,Pre-fall shopping,15,2
+1908,New,Christmas present,9,2
+1909,New,Pre-fall shopping,16,8
+1910,Loyal,Back to school,30,7
+1911,New,Pre-fall shopping,6,9
+1912,New,Pre-fall shopping,5,5
+1913,New,Back to school,2,6
+1914,New,Back to school,21,5
+1915,VIP,Pre-fall shopping,14,9
+1916,New,Back to school,6,9
+1917,New,Christmas present,14,6
+1918,Loyal,Summer preperation,21,9
+1919,Loyal,Back to school,23,6
+1920,VIP,Christmas present,15,3
+1921,VIP,Summer preperation,20,4
+1922,New,Back to school,16,9
+1923,Loyal,Pre-fall shopping,29,5
+1924,Loyal,Pre-fall shopping,2,5
+1925,VIP,Back to school,25,8
+1926,Loyal,Summer preperation,10,8
+1927,VIP,Back to school,16,8
+1928,VIP,Summer preperation,9,8
+1929,New,Christmas present,28,8
+1930,VIP,Back to school,29,7
+1931,VIP,Back to school,18,9
+1932,VIP,Back to school,11,3
+1933,VIP,Pre-fall shopping,29,7
+1934,Loyal,Back to school,20,8
+1935,New,Summer preperation,15,9
+1936,Loyal,Pre-fall shopping,14,3
+1937,VIP,Pre-fall shopping,10,9
+1938,Loyal,Pre-fall shopping,10,9
+1939,New,Pre-fall shopping,22,9
+1940,VIP,Back to school,5,9
+1941,VIP,Summer preperation,13,8
+1942,Loyal,Back to school,29,9
+1943,Loyal,Summer preperation,8,6
+1944,VIP,Back to school,23,9
+1945,VIP,Back to school,7,3
+1946,VIP,Pre-fall shopping,21,3
+1947,New,Back to school,7,9
+1948,Loyal,Summer preperation,8,3
+1949,New,Back to school,7,8
+1950,New,Christmas present,3,1
+1951,Loyal,Summer preperation,8,7
+1952,VIP,Summer preperation,9,1
+1953,VIP,Back to school,14,7
+1954,VIP,Back to school,10,9
+1955,VIP,Pre-fall shopping,20,3
+1956,Loyal,Pre-fall shopping,4,9
+1957,VIP,Christmas present,19,2
+1958,VIP,Christmas present,16,7
+1959,VIP,Summer preperation,7,2
+1960,New,Back to school,12,3
+1961,Loyal,Christmas present,11,3
+1962,New,Christmas present,27,2
+1963,VIP,Back to school,8,7
+1964,New,Back to school,12,1
+1965,VIP,Summer preperation,27,7
+1966,New,Summer preperation,15,5
+1967,New,Pre-fall shopping,20,8
+1968,Loyal,Pre-fall shopping,22,5
+1969,New,Christmas present,3,4
+1970,New,Pre-fall shopping,21,1
+1971,Loyal,Christmas present,25,4
+1972,VIP,Pre-fall shopping,20,4
+1973,Loyal,Christmas present,17,7
+1974,VIP,Christmas present,25,1
+1975,New,Pre-fall shopping,18,2
+1976,VIP,Pre-fall shopping,27,3
+1977,New,Back to school,16,9
+1978,Loyal,Summer preperation,7,7
+1979,VIP,Back to school,5,8
+1980,VIP,Pre-fall shopping,20,7
+1981,Loyal,Pre-fall shopping,29,2
+1982,VIP,Christmas present,9,1
+1983,New,Christmas present,7,5
+1984,Loyal,Pre-fall shopping,10,8
+1985,VIP,Pre-fall shopping,4,7
+1986,VIP,Summer preperation,8,4
+1987,Loyal,Christmas present,30,4
+1988,VIP,Pre-fall shopping,4,8
+1989,New,Summer preperation,14,1
+1990,New,Pre-fall shopping,6,3
+1991,VIP,Christmas present,26,6
+1992,VIP,Christmas present,23,5
+1993,VIP,Christmas present,13,3
+1994,New,Back to school,19,1
+1995,VIP,Back to school,7,8
+1996,VIP,Summer preperation,29,1
+1997,Loyal,Christmas present,22,5
+1998,Loyal,Back to school,13,8
+1999,VIP,Summer preperation,27,3
+2000,Loyal,Christmas present,29,2
+2001,VIP,Back to school,27,7
+2002,New,Pre-fall shopping,12,5
+2003,Loyal,Christmas present,11,4
+2004,VIP,Christmas present,17,9
+2005,Loyal,Back to school,3,5
+2006,New,Back to school,23,5
+2007,VIP,Back to school,23,8
+2008,New,Christmas present,7,7
+2009,Loyal,Christmas present,2,8
+2010,Loyal,Summer preperation,28,3
+2011,New,Pre-fall shopping,25,3
+2012,New,Pre-fall shopping,27,7
+2013,New,Summer preperation,25,6
+2014,Loyal,Summer preperation,18,1
+2015,VIP,Christmas present,11,4
+2016,VIP,Summer preperation,30,4
+2017,New,Pre-fall shopping,8,9
+2018,Loyal,Summer preperation,2,8
+2019,New,Pre-fall shopping,22,1
+2020,VIP,Back to school,29,6
+2021,New,Summer preperation,21,2
+2022,New,Back to school,8,5
+2023,Loyal,Back to school,19,7
+2024,VIP,Christmas present,16,9
+2025,New,Christmas present,6,5
+2026,VIP,Christmas present,25,7
+2027,New,Christmas present,29,3
+2028,VIP,Back to school,18,9
+2029,Loyal,Christmas present,30,2
+2030,New,Pre-fall shopping,8,8
+2031,VIP,Back to school,13,6
+2032,New,Summer preperation,2,5
+2033,Loyal,Summer preperation,8,5
+2034,Loyal,Pre-fall shopping,23,1
+2035,Loyal,Pre-fall shopping,22,3
+2036,VIP,Christmas present,25,7
+2037,VIP,Christmas present,28,2
+2038,New,Back to school,18,7
+2039,VIP,Back to school,6,7
+2040,Loyal,Summer preperation,17,8
+2041,VIP,Christmas present,20,6
+2042,New,Summer preperation,25,8
+2043,VIP,Back to school,18,6
+2044,New,Back to school,23,1
+2045,VIP,Christmas present,26,1
+2046,VIP,Back to school,9,3
+2047,New,Back to school,19,4
+2048,New,Christmas present,21,8
+2049,VIP,Pre-fall shopping,27,4
+2050,VIP,Pre-fall shopping,29,5
+2051,VIP,Christmas present,21,5
+2052,Loyal,Pre-fall shopping,26,5
+2053,Loyal,Christmas present,5,7
+2054,Loyal,Back to school,14,7
+2055,VIP,Back to school,12,6
+2056,VIP,Summer preperation,15,1
+2057,VIP,Back to school,23,3
+2058,VIP,Back to school,25,7
+2059,New,Pre-fall shopping,22,7
+2060,Loyal,Pre-fall shopping,10,6
+2061,VIP,Christmas present,6,3
+2062,New,Pre-fall shopping,4,4
+2063,Loyal,Back to school,7,6
+2064,VIP,Pre-fall shopping,12,4
+2065,VIP,Back to school,25,2
+2066,VIP,Back to school,16,2
+2067,Loyal,Summer preperation,4,6
+2068,Loyal,Christmas present,10,6
+2069,Loyal,Back to school,14,9
+2070,VIP,Summer preperation,4,7
+2071,Loyal,Christmas present,28,4
+2072,New,Christmas present,15,5
+2073,Loyal,Christmas present,16,8
+2074,New,Pre-fall shopping,4,4
+2075,VIP,Summer preperation,11,3
+2076,New,Pre-fall shopping,20,5
+2077,VIP,Summer preperation,13,8
+2078,Loyal,Pre-fall shopping,16,9
+2079,VIP,Christmas present,12,3
+2080,New,Pre-fall shopping,5,7
+2081,Loyal,Christmas present,11,7
+2082,New,Back to school,28,5
+2083,VIP,Summer preperation,13,7
+2084,Loyal,Pre-fall shopping,24,6
+2085,VIP,Summer preperation,27,5
+2086,Loyal,Summer preperation,14,2
+2087,New,Back to school,15,1
+2088,VIP,Christmas present,13,2
+2089,Loyal,Christmas present,29,4
+2090,New,Pre-fall shopping,25,9
+2091,New,Summer preperation,2,1
+2092,New,Summer preperation,10,4
+2093,Loyal,Pre-fall shopping,7,5
+2094,New,Pre-fall shopping,26,9
+2095,Loyal,Back to school,30,8
+2096,New,Back to school,27,9
+2097,New,Pre-fall shopping,5,2
+2098,Loyal,Back to school,5,2
+2099,New,Summer preperation,4,2
+2100,Loyal,Summer preperation,8,4
+2101,VIP,Back to school,8,9
+2102,VIP,Back to school,4,4
+2103,VIP,Christmas present,10,5
+2104,Loyal,Summer preperation,10,9
+2105,Loyal,Back to school,10,7
+2106,Loyal,Summer preperation,22,8
+2107,New,Back to school,10,4
+2108,VIP,Summer preperation,26,5
+2109,Loyal,Back to school,29,3
+2110,Loyal,Pre-fall shopping,16,1
+2111,VIP,Christmas present,11,5
+2112,VIP,Summer preperation,27,5
+2113,VIP,Back to school,26,3
+2114,VIP,Summer preperation,8,8
+2115,Loyal,Pre-fall shopping,11,3
+2116,New,Summer preperation,15,4
+2117,Loyal,Back to school,2,4
+2118,VIP,Back to school,12,9
+2119,Loyal,Pre-fall shopping,21,4
+2120,New,Back to school,15,4
+2121,New,Summer preperation,28,8
+2122,VIP,Back to school,10,1
+2123,VIP,Summer preperation,20,8
+2124,Loyal,Pre-fall shopping,30,7
+2125,VIP,Pre-fall shopping,7,3
+2126,VIP,Pre-fall shopping,23,5
+2127,VIP,Pre-fall shopping,21,2
+2128,New,Pre-fall shopping,13,2
+2129,New,Summer preperation,24,5
+2130,New,Pre-fall shopping,18,4
+2131,Loyal,Summer preperation,2,8
+2132,New,Back to school,5,9
+2133,VIP,Pre-fall shopping,15,2
+2134,New,Summer preperation,8,9
+2135,VIP,Back to school,7,2
+2136,New,Summer preperation,6,2
+2137,Loyal,Christmas present,10,1
+2138,New,Summer preperation,19,7
+2139,New,Pre-fall shopping,22,2
+2140,Loyal,Summer preperation,11,2
+2141,VIP,Pre-fall shopping,5,4
+2142,New,Back to school,11,3
+2143,New,Summer preperation,22,5
+2144,New,Back to school,9,8
+2145,New,Summer preperation,22,2
+2146,VIP,Pre-fall shopping,11,1
+2147,New,Summer preperation,19,9
+2148,VIP,Christmas present,16,6
+2149,New,Christmas present,3,5
+2150,Loyal,Summer preperation,12,9
+2151,Loyal,Pre-fall shopping,3,3
+2152,VIP,Christmas present,10,4
+2153,VIP,Summer preperation,14,6
+2154,Loyal,Summer preperation,22,8
+2155,New,Christmas present,19,6
+2156,VIP,Summer preperation,30,5
+2157,VIP,Summer preperation,13,1
+2158,New,Summer preperation,18,2
+2159,New,Summer preperation,14,6
+2160,Loyal,Summer preperation,29,4
+2161,Loyal,Back to school,11,8
+2162,VIP,Back to school,12,7
+2163,New,Pre-fall shopping,27,1
+2164,Loyal,Summer preperation,12,7
+2165,Loyal,Pre-fall shopping,28,6
+2166,VIP,Pre-fall shopping,10,8
+2167,Loyal,Christmas present,24,4
+2168,Loyal,Christmas present,14,5
+2169,New,Summer preperation,13,5
+2170,Loyal,Christmas present,9,7
+2171,New,Christmas present,17,4
+2172,VIP,Pre-fall shopping,18,5
+2173,Loyal,Christmas present,9,1
+2174,New,Summer preperation,24,8
+2175,VIP,Pre-fall shopping,8,9
+2176,VIP,Summer preperation,13,8
+2177,VIP,Back to school,16,9
+2178,VIP,Christmas present,9,4
+2179,New,Back to school,15,8
+2180,VIP,Summer preperation,6,5
+2181,Loyal,Back to school,7,4
+2182,Loyal,Summer preperation,18,2
+2183,New,Pre-fall shopping,25,2
+2184,Loyal,Back to school,4,3
+2185,VIP,Christmas present,26,8
+2186,New,Back to school,2,9
+2187,Loyal,Back to school,17,8
+2188,VIP,Summer preperation,20,7
+2189,Loyal,Christmas present,4,2
+2190,Loyal,Summer preperation,26,8
+2191,New,Summer preperation,7,3
+2192,VIP,Christmas present,15,7
+2193,VIP,Pre-fall shopping,15,8
+2194,New,Back to school,3,4
+2195,VIP,Summer preperation,21,3
+2196,VIP,Summer preperation,17,9
+2197,VIP,Summer preperation,21,3
+2198,Loyal,Christmas present,16,5
+2199,Loyal,Pre-fall shopping,14,8
+2200,New,Christmas present,25,3
+2201,Loyal,Pre-fall shopping,14,6
+2202,Loyal,Summer preperation,9,6
+2203,New,Christmas present,10,5
+2204,New,Back to school,3,2
+2205,VIP,Pre-fall shopping,7,1
+2206,New,Back to school,24,3
+2207,Loyal,Back to school,12,7
+2208,Loyal,Back to school,18,7
+2209,New,Summer preperation,13,6
+2210,VIP,Summer preperation,13,6
+2211,New,Summer preperation,23,1
+2212,Loyal,Back to school,11,1
+2213,New,Christmas present,30,3
+2214,VIP,Christmas present,5,1
+2215,VIP,Back to school,3,3
+2216,New,Summer preperation,6,7
+2217,Loyal,Christmas present,29,4
+2218,New,Back to school,14,1
+2219,VIP,Back to school,8,7
+2220,Loyal,Back to school,7,5
+2221,VIP,Back to school,13,3
+2222,New,Pre-fall shopping,30,6
+2223,VIP,Christmas present,8,4
+2224,New,Back to school,24,2
+2225,New,Pre-fall shopping,3,5
+2226,New,Back to school,7,5
+2227,VIP,Summer preperation,8,2
+2228,Loyal,Pre-fall shopping,14,8
+2229,New,Summer preperation,14,3
+2230,New,Pre-fall shopping,13,5
+2231,New,Back to school,17,6
+2232,VIP,Summer preperation,28,1
+2233,New,Back to school,21,7
+2234,VIP,Summer preperation,13,5
+2235,Loyal,Christmas present,4,8
+2236,VIP,Summer preperation,14,5
+2237,Loyal,Pre-fall shopping,24,5
+2238,VIP,Summer preperation,14,4
+2239,VIP,Summer preperation,27,9
+2240,New,Back to school,28,6
+2241,VIP,Christmas present,17,7
+2242,New,Summer preperation,14,3
+2243,Loyal,Pre-fall shopping,19,8
+2244,VIP,Back to school,28,1
+2245,Loyal,Christmas present,17,1
+2246,Loyal,Christmas present,20,7
+2247,New,Pre-fall shopping,20,8
+2248,New,Pre-fall shopping,11,1
+2249,Loyal,Pre-fall shopping,11,4
+2250,Loyal,Christmas present,19,4
+2251,New,Pre-fall shopping,28,5
+2252,VIP,Back to school,19,8
+2253,Loyal,Christmas present,25,2
+2254,Loyal,Pre-fall shopping,10,3
+2255,VIP,Summer preperation,11,1
+2256,New,Back to school,8,5
+2257,Loyal,Christmas present,4,4
+2258,VIP,Back to school,23,8
+2259,VIP,Back to school,8,1
+2260,Loyal,Summer preperation,22,2
+2261,VIP,Christmas present,12,5
+2262,New,Summer preperation,7,6
+2263,VIP,Back to school,19,6
+2264,New,Christmas present,5,5
+2265,Loyal,Pre-fall shopping,27,6
+2266,VIP,Pre-fall shopping,2,1
+2267,New,Summer preperation,17,4
+2268,Loyal,Christmas present,7,6
+2269,VIP,Christmas present,22,2
+2270,Loyal,Pre-fall shopping,26,1
+2271,New,Summer preperation,18,8
+2272,Loyal,Christmas present,28,6
+2273,Loyal,Back to school,21,1
+2274,Loyal,Christmas present,27,3
+2275,New,Back to school,19,8
+2276,VIP,Summer preperation,22,9
+2277,VIP,Back to school,21,5
+2278,Loyal,Christmas present,11,4
+2279,Loyal,Pre-fall shopping,16,7
+2280,New,Christmas present,27,2
+2281,New,Back to school,12,9
+2282,New,Summer preperation,23,6
+2283,VIP,Pre-fall shopping,15,4
+2284,Loyal,Christmas present,3,4
+2285,VIP,Pre-fall shopping,21,9
+2286,New,Summer preperation,11,2
+2287,Loyal,Summer preperation,16,8
+2288,Loyal,Christmas present,20,2
+2289,New,Summer preperation,2,7
+2290,New,Summer preperation,12,5
+2291,New,Back to school,17,3
+2292,New,Christmas present,27,7
+2293,Loyal,Pre-fall shopping,6,6
+2294,Loyal,Christmas present,5,2
+2295,VIP,Summer preperation,11,6
+2296,Loyal,Pre-fall shopping,16,3
+2297,New,Summer preperation,12,5
+2298,VIP,Back to school,24,2
+2299,New,Back to school,2,4
+2300,New,Pre-fall shopping,11,7
+2301,Loyal,Back to school,22,9
+2302,VIP,Back to school,21,5
+2303,New,Summer preperation,20,4
+2304,New,Pre-fall shopping,5,6
+2305,New,Pre-fall shopping,14,3
+2306,New,Summer preperation,20,2
+2307,Loyal,Summer preperation,26,4
+2308,New,Back to school,13,7
+2309,VIP,Christmas present,7,9
+2310,Loyal,Pre-fall shopping,28,2
+2311,Loyal,Pre-fall shopping,7,2
+2312,Loyal,Pre-fall shopping,15,8
+2313,New,Pre-fall shopping,5,5
+2314,Loyal,Summer preperation,25,8
+2315,VIP,Summer preperation,27,8
+2316,Loyal,Christmas present,20,3
+2317,New,Summer preperation,4,3
+2318,VIP,Summer preperation,15,7
+2319,VIP,Pre-fall shopping,29,6
+2320,New,Christmas present,17,5
+2321,Loyal,Pre-fall shopping,24,2
+2322,VIP,Christmas present,18,1
+2323,VIP,Christmas present,24,3
+2324,Loyal,Pre-fall shopping,2,8
+2325,Loyal,Pre-fall shopping,2,8
+2326,Loyal,Pre-fall shopping,8,1
+2327,VIP,Christmas present,18,1
+2328,VIP,Back to school,5,1
+2329,VIP,Pre-fall shopping,17,4
+2330,New,Back to school,27,4
+2331,VIP,Summer preperation,6,9
+2332,VIP,Summer preperation,12,8
+2333,VIP,Pre-fall shopping,16,6
+2334,Loyal,Back to school,30,5
+2335,VIP,Summer preperation,14,1
+2336,VIP,Pre-fall shopping,2,2
+2337,New,Pre-fall shopping,13,5
+2338,VIP,Pre-fall shopping,26,8
+2339,Loyal,Pre-fall shopping,4,3
+2340,New,Christmas present,25,6
+2341,New,Back to school,14,6
+2342,New,Christmas present,16,1
+2343,VIP,Christmas present,22,1
+2344,Loyal,Summer preperation,13,4
+2345,VIP,Pre-fall shopping,20,1
+2346,New,Summer preperation,8,4
+2347,VIP,Back to school,21,3
+2348,New,Christmas present,10,2
+2349,VIP,Pre-fall shopping,11,2
+2350,Loyal,Summer preperation,8,2
+2351,New,Back to school,3,4
+2352,Loyal,Christmas present,8,9
+2353,New,Christmas present,20,8
+2354,New,Summer preperation,3,3
+2355,New,Summer preperation,22,5
+2356,Loyal,Back to school,18,7
+2357,New,Christmas present,10,3
+2358,New,Christmas present,18,4
+2359,Loyal,Christmas present,17,4
+2360,Loyal,Christmas present,6,1
+2361,VIP,Summer preperation,13,9
+2362,Loyal,Christmas present,24,8
+2363,Loyal,Pre-fall shopping,23,9
+2364,Loyal,Christmas present,11,2
+2365,VIP,Summer preperation,8,7
+2366,New,Christmas present,17,4
+2367,New,Back to school,6,9
+2368,New,Pre-fall shopping,4,5
+2369,Loyal,Pre-fall shopping,16,6
+2370,New,Back to school,8,4
+2371,New,Pre-fall shopping,27,2
+2372,Loyal,Back to school,2,9
+2373,New,Back to school,29,9
+2374,Loyal,Summer preperation,16,4
+2375,New,Back to school,9,9
+2376,Loyal,Back to school,26,6
+2377,Loyal,Christmas present,19,9
+2378,New,Summer preperation,24,8
+2379,Loyal,Pre-fall shopping,20,1
+2380,Loyal,Back to school,12,8
+2381,New,Back to school,15,7
+2382,Loyal,Pre-fall shopping,18,3
+2383,Loyal,Summer preperation,5,1
+2384,Loyal,Pre-fall shopping,18,8
+2385,New,Christmas present,19,7
+2386,Loyal,Pre-fall shopping,29,7
+2387,New,Back to school,20,5
+2388,VIP,Pre-fall shopping,21,4
+2389,New,Pre-fall shopping,26,7
+2390,Loyal,Back to school,26,7
+2391,VIP,Christmas present,20,7
+2392,VIP,Christmas present,17,3
+2393,VIP,Back to school,3,6
+2394,VIP,Christmas present,19,9
+2395,VIP,Christmas present,15,5
+2396,Loyal,Summer preperation,28,4
+2397,Loyal,Christmas present,20,5
+2398,VIP,Pre-fall shopping,23,4
+2399,New,Back to school,20,9
+2400,New,Pre-fall shopping,2,8
+2401,New,Summer preperation,16,2
+2402,Loyal,Pre-fall shopping,26,9
+2403,Loyal,Summer preperation,16,7
+2404,New,Back to school,22,1
+2405,Loyal,Summer preperation,18,7
+2406,Loyal,Pre-fall shopping,25,2
+2407,VIP,Pre-fall shopping,5,1
+2408,Loyal,Christmas present,18,6
+2409,New,Summer preperation,21,1
+2410,New,Christmas present,24,7
+2411,VIP,Christmas present,25,1
+2412,VIP,Back to school,8,1
+2413,New,Summer preperation,11,7
+2414,Loyal,Summer preperation,28,5
+2415,Loyal,Christmas present,12,3
+2416,Loyal,Summer preperation,23,5
+2417,VIP,Christmas present,17,1
+2418,VIP,Christmas present,16,1
+2419,VIP,Pre-fall shopping,10,1
+2420,VIP,Back to school,7,3
+2421,Loyal,Pre-fall shopping,8,5
+2422,VIP,Pre-fall shopping,23,9
+2423,VIP,Pre-fall shopping,28,6
+2424,New,Summer preperation,25,4
+2425,VIP,Summer preperation,27,4
+2426,VIP,Summer preperation,17,3
+2427,Loyal,Summer preperation,27,3
+2428,New,Summer preperation,3,7
+2429,VIP,Christmas present,26,7
+2430,VIP,Back to school,7,3
+2431,New,Christmas present,6,1
+2432,VIP,Back to school,29,8
+2433,New,Christmas present,21,6
+2434,New,Summer preperation,8,2
+2435,VIP,Summer preperation,25,3
+2436,Loyal,Summer preperation,2,8
+2437,New,Back to school,24,4
+2438,VIP,Summer preperation,16,6
+2439,Loyal,Christmas present,29,9
+2440,New,Christmas present,14,4
+2441,Loyal,Back to school,5,8
+2442,VIP,Pre-fall shopping,19,7
+2443,VIP,Back to school,3,9
+2444,New,Pre-fall shopping,9,3
+2445,New,Back to school,9,7
+2446,Loyal,Pre-fall shopping,28,2
+2447,Loyal,Summer preperation,22,9
+2448,VIP,Christmas present,22,7
+2449,VIP,Back to school,30,8
+2450,New,Pre-fall shopping,19,7
+2451,VIP,Summer preperation,9,4
+2452,VIP,Pre-fall shopping,26,3
+2453,VIP,Christmas present,20,2
+2454,VIP,Pre-fall shopping,5,7
+2455,Loyal,Summer preperation,3,9
+2456,VIP,Pre-fall shopping,20,1
+2457,New,Christmas present,25,3
+2458,Loyal,Christmas present,10,2
+2459,New,Christmas present,29,4
+2460,VIP,Christmas present,18,5
+2461,Loyal,Pre-fall shopping,5,8
+2462,VIP,Back to school,7,8
+2463,New,Pre-fall shopping,20,7
+2464,Loyal,Pre-fall shopping,19,4
+2465,VIP,Summer preperation,21,4
+2466,VIP,Pre-fall shopping,23,3
+2467,VIP,Pre-fall shopping,20,6
+2468,VIP,Back to school,11,5
+2469,Loyal,Christmas present,3,6
+2470,VIP,Christmas present,9,3
+2471,VIP,Back to school,11,4
+2472,New,Back to school,13,4
+2473,Loyal,Summer preperation,7,7
+2474,Loyal,Back to school,8,6
+2475,New,Back to school,5,8
+2476,VIP,Christmas present,28,3
+2477,VIP,Summer preperation,15,7
+2478,New,Christmas present,22,9
+2479,New,Summer preperation,13,2
+2480,New,Back to school,28,2
+2481,New,Pre-fall shopping,23,8
+2482,VIP,Pre-fall shopping,2,1
+2483,Loyal,Back to school,6,6
+2484,Loyal,Christmas present,13,9
+2485,VIP,Summer preperation,16,2
+2486,VIP,Summer preperation,7,7
+2487,New,Christmas present,24,6
+2488,Loyal,Summer preperation,21,5
+2489,New,Back to school,22,9
+2490,New,Pre-fall shopping,6,5
+2491,Loyal,Christmas present,9,4
+2492,New,Pre-fall shopping,23,5
+2493,VIP,Pre-fall shopping,19,3
+2494,VIP,Summer preperation,20,3
+2495,New,Pre-fall shopping,12,6
+2496,New,Summer preperation,3,7
+2497,New,Back to school,20,5
+2498,New,Back to school,26,2
+2499,Loyal,Christmas present,8,5
+2500,VIP,Summer preperation,13,8
+2501,New,Summer preperation,29,2
+2502,Loyal,Back to school,19,5
+2503,New,Christmas present,30,8
+2504,VIP,Summer preperation,16,9
+2505,New,Back to school,19,7
+2506,Loyal,Back to school,4,6
+2507,VIP,Summer preperation,22,2
+2508,VIP,Back to school,30,2
+2509,Loyal,Back to school,9,3
+2510,New,Christmas present,12,2
+2511,VIP,Back to school,5,7
+2512,Loyal,Christmas present,14,4
+2513,Loyal,Summer preperation,14,7
+2514,VIP,Summer preperation,21,5
+2515,Loyal,Pre-fall shopping,23,1
+2516,New,Summer preperation,3,8
+2517,VIP,Christmas present,24,8
+2518,New,Back to school,19,2
+2519,VIP,Pre-fall shopping,13,9
+2520,Loyal,Christmas present,22,2
+2521,VIP,Christmas present,14,8
+2522,Loyal,Pre-fall shopping,22,1
+2523,Loyal,Summer preperation,8,4
+2524,VIP,Pre-fall shopping,17,5
+2525,New,Summer preperation,28,6
+2526,New,Back to school,23,7
+2527,Loyal,Pre-fall shopping,8,2
+2528,New,Christmas present,8,1
+2529,Loyal,Summer preperation,15,4
+2530,New,Christmas present,14,5
+2531,Loyal,Christmas present,19,4
+2532,VIP,Christmas present,2,4
+2533,Loyal,Summer preperation,11,1
+2534,New,Christmas present,20,3
+2535,VIP,Summer preperation,20,8
+2536,New,Back to school,28,8
+2537,New,Pre-fall shopping,6,2
+2538,New,Pre-fall shopping,8,4
+2539,New,Back to school,2,1
+2540,Loyal,Summer preperation,24,2
+2541,Loyal,Pre-fall shopping,14,3
+2542,New,Summer preperation,28,8
+2543,VIP,Pre-fall shopping,16,1
+2544,New,Summer preperation,9,5
+2545,VIP,Pre-fall shopping,26,2
+2546,New,Christmas present,19,5
+2547,Loyal,Pre-fall shopping,5,6
+2548,Loyal,Christmas present,17,2
+2549,VIP,Back to school,20,1
+2550,Loyal,Summer preperation,12,2
+2551,VIP,Back to school,29,5
+2552,New,Pre-fall shopping,23,2
+2553,New,Christmas present,13,1
+2554,Loyal,Back to school,5,4
+2555,New,Back to school,4,8
+2556,New,Summer preperation,3,5
+2557,New,Christmas present,21,4
+2558,VIP,Christmas present,23,5
+2559,VIP,Pre-fall shopping,30,4
+2560,Loyal,Pre-fall shopping,17,9
+2561,VIP,Summer preperation,10,3
+2562,New,Christmas present,7,4
+2563,Loyal,Pre-fall shopping,13,8
+2564,Loyal,Summer preperation,8,9
+2565,Loyal,Back to school,27,3
+2566,New,Pre-fall shopping,15,3
+2567,Loyal,Christmas present,16,1
+2568,New,Christmas present,7,3
+2569,VIP,Back to school,27,4
+2570,VIP,Summer preperation,7,7
+2571,VIP,Back to school,28,4
+2572,VIP,Summer preperation,27,3
+2573,New,Back to school,18,8
+2574,Loyal,Summer preperation,21,8
+2575,Loyal,Pre-fall shopping,14,3
+2576,New,Christmas present,19,5
+2577,VIP,Back to school,6,8
+2578,VIP,Pre-fall shopping,7,9
+2579,VIP,Back to school,15,1
+2580,VIP,Summer preperation,28,4
+2581,Loyal,Pre-fall shopping,19,1
+2582,Loyal,Summer preperation,20,5
+2583,VIP,Back to school,7,7
+2584,Loyal,Pre-fall shopping,18,3
+2585,VIP,Back to school,11,2
+2586,VIP,Back to school,15,6
+2587,VIP,Summer preperation,27,6
+2588,Loyal,Back to school,19,6
+2589,VIP,Summer preperation,28,2
+2590,VIP,Back to school,28,1
+2591,New,Christmas present,2,9
+2592,Loyal,Back to school,18,4
+2593,VIP,Christmas present,29,1
+2594,VIP,Back to school,16,9
+2595,VIP,Back to school,16,4
+2596,Loyal,Christmas present,18,7
+2597,VIP,Christmas present,29,3
+2598,Loyal,Christmas present,5,1
+2599,New,Summer preperation,23,5
+2600,New,Summer preperation,6,3
+2601,New,Pre-fall shopping,30,2
+2602,New,Summer preperation,18,7
+2603,New,Christmas present,17,2
+2604,VIP,Back to school,30,3
+2605,Loyal,Christmas present,19,2
+2606,New,Back to school,11,9
+2607,New,Pre-fall shopping,7,3
+2608,New,Summer preperation,23,4
+2609,VIP,Back to school,17,6
+2610,Loyal,Christmas present,19,5
+2611,New,Pre-fall shopping,22,1
+2612,VIP,Summer preperation,26,4
+2613,Loyal,Christmas present,5,1
+2614,VIP,Pre-fall shopping,9,4
+2615,VIP,Back to school,11,7
+2616,Loyal,Pre-fall shopping,5,2
+2617,Loyal,Pre-fall shopping,25,8
+2618,VIP,Back to school,13,6
+2619,New,Summer preperation,29,4
+2620,VIP,Summer preperation,24,8
+2621,New,Back to school,22,2
+2622,New,Christmas present,15,6
+2623,VIP,Summer preperation,17,1
+2624,Loyal,Back to school,27,7
+2625,New,Christmas present,9,9
+2626,New,Christmas present,2,8
+2627,Loyal,Summer preperation,13,4
+2628,New,Pre-fall shopping,26,9
+2629,Loyal,Back to school,14,4
+2630,New,Pre-fall shopping,25,6
+2631,New,Back to school,4,4
+2632,VIP,Pre-fall shopping,25,2
+2633,New,Back to school,6,8
+2634,Loyal,Pre-fall shopping,10,5
+2635,Loyal,Summer preperation,12,9
+2636,Loyal,Pre-fall shopping,10,7
+2637,Loyal,Back to school,19,1
+2638,VIP,Pre-fall shopping,25,6
+2639,Loyal,Summer preperation,13,1
+2640,Loyal,Back to school,4,9
+2641,VIP,Back to school,11,1
+2642,New,Pre-fall shopping,9,3
+2643,Loyal,Christmas present,24,2
+2644,New,Christmas present,30,8
+2645,New,Christmas present,17,6
+2646,Loyal,Back to school,10,9
+2647,VIP,Pre-fall shopping,26,1
+2648,Loyal,Back to school,10,3
+2649,VIP,Pre-fall shopping,8,1
+2650,VIP,Summer preperation,14,9
+2651,Loyal,Summer preperation,14,9
+2652,Loyal,Pre-fall shopping,27,4
+2653,New,Back to school,2,7
+2654,Loyal,Back to school,6,3
+2655,New,Christmas present,30,2
+2656,New,Back to school,13,3
+2657,New,Pre-fall shopping,10,2
+2658,VIP,Pre-fall shopping,4,2
+2659,New,Christmas present,3,2
+2660,Loyal,Back to school,19,6
+2661,New,Pre-fall shopping,12,3
+2662,VIP,Pre-fall shopping,10,2
+2663,VIP,Pre-fall shopping,16,5
+2664,VIP,Pre-fall shopping,26,2
+2665,New,Pre-fall shopping,2,5
+2666,New,Back to school,2,4
+2667,New,Pre-fall shopping,15,9
+2668,Loyal,Pre-fall shopping,29,9
+2669,Loyal,Pre-fall shopping,10,6
+2670,Loyal,Christmas present,17,2
+2671,VIP,Summer preperation,3,9
+2672,New,Back to school,6,8
+2673,Loyal,Summer preperation,9,4
+2674,New,Back to school,18,6
+2675,Loyal,Back to school,20,4
+2676,VIP,Pre-fall shopping,14,5
+2677,Loyal,Back to school,25,4
+2678,Loyal,Summer preperation,30,7
+2679,New,Summer preperation,12,1
+2680,New,Back to school,14,8
+2681,Loyal,Christmas present,30,3
+2682,VIP,Christmas present,14,5
+2683,Loyal,Summer preperation,17,2
+2684,New,Christmas present,24,5
+2685,Loyal,Summer preperation,16,3
+2686,VIP,Back to school,2,6
+2687,VIP,Christmas present,8,1
+2688,Loyal,Summer preperation,16,4
+2689,Loyal,Christmas present,5,7
+2690,New,Pre-fall shopping,12,2
+2691,VIP,Pre-fall shopping,23,6
+2692,VIP,Christmas present,21,1
+2693,VIP,Christmas present,22,1
+2694,Loyal,Pre-fall shopping,9,9
+2695,Loyal,Christmas present,25,1
+2696,New,Pre-fall shopping,18,5
+2697,New,Back to school,28,7
+2698,VIP,Christmas present,30,1
+2699,New,Christmas present,19,2
+2700,New,Summer preperation,28,7
+2701,Loyal,Christmas present,5,7
+2702,Loyal,Summer preperation,3,7
+2703,VIP,Back to school,2,8
+2704,Loyal,Christmas present,22,4
+2705,Loyal,Christmas present,18,1
+2706,New,Pre-fall shopping,26,9
+2707,Loyal,Christmas present,8,7
+2708,VIP,Christmas present,13,3
+2709,New,Pre-fall shopping,3,2
+2710,VIP,Pre-fall shopping,19,4
+2711,Loyal,Christmas present,24,1
+2712,Loyal,Pre-fall shopping,11,3
+2713,New,Christmas present,21,2
+2714,Loyal,Back to school,17,3
+2715,New,Summer preperation,9,6
+2716,New,Pre-fall shopping,17,7
+2717,Loyal,Christmas present,13,4
+2718,New,Back to school,8,5
+2719,New,Back to school,16,9
+2720,VIP,Summer preperation,14,5
+2721,Loyal,Pre-fall shopping,6,4
+2722,New,Christmas present,2,7
+2723,VIP,Summer preperation,6,9
+2724,New,Back to school,20,8
+2725,Loyal,Pre-fall shopping,21,1
+2726,New,Back to school,23,1
+2727,VIP,Back to school,8,5
+2728,Loyal,Christmas present,11,8
+2729,Loyal,Summer preperation,24,2
+2730,New,Christmas present,6,5
+2731,New,Summer preperation,8,7
+2732,VIP,Summer preperation,23,5
+2733,VIP,Back to school,13,5
+2734,New,Pre-fall shopping,25,1
+2735,New,Christmas present,20,8
+2736,Loyal,Christmas present,28,6
+2737,Loyal,Christmas present,12,5
+2738,New,Summer preperation,11,7
+2739,New,Pre-fall shopping,17,8
+2740,VIP,Christmas present,6,8
+2741,VIP,Pre-fall shopping,4,4
+2742,Loyal,Christmas present,14,5
+2743,New,Back to school,5,9
+2744,VIP,Summer preperation,15,9
+2745,VIP,Pre-fall shopping,10,1
+2746,VIP,Back to school,17,9
+2747,Loyal,Christmas present,30,7
+2748,Loyal,Pre-fall shopping,14,8
+2749,New,Pre-fall shopping,20,8
+2750,Loyal,Christmas present,24,7
+2751,Loyal,Summer preperation,24,3
+2752,New,Christmas present,12,4
+2753,VIP,Back to school,14,4
+2754,VIP,Pre-fall shopping,29,6
+2755,Loyal,Back to school,17,7
+2756,New,Summer preperation,12,6
+2757,Loyal,Christmas present,15,9
+2758,New,Summer preperation,4,3
+2759,New,Summer preperation,22,1
+2760,New,Back to school,3,4
+2761,VIP,Christmas present,27,7
+2762,New,Pre-fall shopping,26,5
+2763,Loyal,Summer preperation,19,9
+2764,New,Pre-fall shopping,12,8
+2765,VIP,Back to school,26,9
+2766,Loyal,Summer preperation,24,5
+2767,Loyal,Christmas present,4,5
+2768,Loyal,Summer preperation,22,1
+2769,VIP,Back to school,12,4
+2770,Loyal,Pre-fall shopping,6,6
+2771,VIP,Back to school,17,7
+2772,VIP,Summer preperation,10,2
+2773,VIP,Back to school,20,4
+2774,Loyal,Summer preperation,7,4
+2775,VIP,Summer preperation,5,6
+2776,Loyal,Back to school,28,8
+2777,VIP,Back to school,13,1
+2778,VIP,Christmas present,13,5
+2779,VIP,Back to school,2,5
+2780,VIP,Christmas present,23,9
+2781,New,Back to school,14,8
+2782,VIP,Pre-fall shopping,12,5
+2783,VIP,Summer preperation,6,6
+2784,Loyal,Summer preperation,12,2
+2785,VIP,Summer preperation,8,5
+2786,Loyal,Christmas present,11,2
+2787,VIP,Christmas present,7,2
+2788,VIP,Christmas present,23,9
+2789,VIP,Summer preperation,11,8
+2790,Loyal,Pre-fall shopping,15,2
+2791,New,Back to school,30,6
+2792,Loyal,Summer preperation,17,5
+2793,New,Summer preperation,21,9
+2794,New,Summer preperation,12,7
+2795,VIP,Christmas present,2,7
+2796,VIP,Pre-fall shopping,16,1
+2797,Loyal,Back to school,4,9
+2798,Loyal,Back to school,23,2
+2799,New,Pre-fall shopping,26,1
+2800,New,Summer preperation,3,4
+2801,New,Back to school,21,4
+2802,Loyal,Back to school,28,2
+2803,VIP,Pre-fall shopping,19,6
+2804,VIP,Back to school,10,6
+2805,Loyal,Back to school,16,7
+2806,New,Pre-fall shopping,12,9
+2807,Loyal,Christmas present,16,9
+2808,VIP,Pre-fall shopping,17,6
+2809,Loyal,Back to school,25,6
+2810,Loyal,Summer preperation,5,5
+2811,VIP,Back to school,27,1
+2812,VIP,Summer preperation,28,5
+2813,Loyal,Christmas present,23,3
+2814,VIP,Christmas present,8,4
+2815,New,Pre-fall shopping,7,4
+2816,New,Christmas present,20,3
+2817,VIP,Summer preperation,8,3
+2818,Loyal,Summer preperation,3,6
+2819,VIP,Summer preperation,17,2
+2820,New,Summer preperation,30,3
+2821,Loyal,Back to school,25,4
+2822,Loyal,Back to school,14,7
+2823,New,Back to school,3,2
+2824,New,Christmas present,18,3
+2825,Loyal,Back to school,24,3
+2826,VIP,Christmas present,16,1
+2827,Loyal,Christmas present,3,7
+2828,VIP,Pre-fall shopping,3,7
+2829,New,Christmas present,16,4
+2830,New,Pre-fall shopping,3,5
+2831,VIP,Summer preperation,4,6
+2832,VIP,Christmas present,21,6
+2833,Loyal,Christmas present,10,5
+2834,Loyal,Christmas present,2,2
+2835,VIP,Summer preperation,26,4
+2836,New,Pre-fall shopping,12,3
+2837,New,Pre-fall shopping,7,3
+2838,VIP,Pre-fall shopping,13,3
+2839,Loyal,Summer preperation,17,7
+2840,VIP,Christmas present,21,3
+2841,New,Christmas present,9,3
+2842,New,Pre-fall shopping,17,3
+2843,Loyal,Back to school,4,1
+2844,VIP,Pre-fall shopping,30,7
+2845,New,Christmas present,6,5
+2846,New,Christmas present,19,8
+2847,VIP,Summer preperation,21,9
+2848,VIP,Christmas present,28,6
+2849,VIP,Summer preperation,18,8
+2850,Loyal,Pre-fall shopping,3,9
+2851,New,Pre-fall shopping,25,1
+2852,New,Back to school,23,2
+2853,Loyal,Summer preperation,13,1
+2854,New,Summer preperation,22,2
+2855,New,Pre-fall shopping,14,6
+2856,VIP,Pre-fall shopping,19,4
+2857,New,Pre-fall shopping,21,9
+2858,Loyal,Back to school,4,7
+2859,New,Summer preperation,22,9
+2860,New,Christmas present,11,3
+2861,VIP,Summer preperation,8,2
+2862,VIP,Summer preperation,14,8
+2863,VIP,Christmas present,20,9
+2864,VIP,Back to school,22,8
+2865,VIP,Summer preperation,13,7
+2866,New,Back to school,24,8
+2867,New,Back to school,11,3
+2868,Loyal,Summer preperation,3,6
+2869,New,Christmas present,12,3
+2870,VIP,Summer preperation,18,8
+2871,VIP,Summer preperation,15,3
+2872,New,Christmas present,4,5
+2873,New,Summer preperation,6,4
+2874,VIP,Back to school,5,3
+2875,New,Pre-fall shopping,20,2
+2876,Loyal,Pre-fall shopping,16,9
+2877,Loyal,Summer preperation,26,3
+2878,New,Christmas present,20,9
+2879,New,Pre-fall shopping,6,2
+2880,Loyal,Pre-fall shopping,3,1
+2881,Loyal,Back to school,5,9
+2882,VIP,Pre-fall shopping,6,7
+2883,New,Christmas present,21,7
+2884,VIP,Summer preperation,28,2
+2885,New,Pre-fall shopping,20,8
+2886,VIP,Back to school,15,2
+2887,New,Christmas present,14,7
+2888,New,Pre-fall shopping,11,8
+2889,Loyal,Christmas present,19,8
+2890,VIP,Pre-fall shopping,16,3
+2891,VIP,Summer preperation,8,1
+2892,VIP,Back to school,11,4
+2893,New,Summer preperation,13,2
+2894,VIP,Pre-fall shopping,25,8
+2895,Loyal,Summer preperation,11,1
+2896,New,Summer preperation,9,7
+2897,Loyal,Christmas present,4,6
+2898,VIP,Back to school,4,7
+2899,VIP,Back to school,21,5
+2900,VIP,Christmas present,11,9
+2901,VIP,Pre-fall shopping,25,7
+2902,New,Summer preperation,28,8
+2903,Loyal,Christmas present,24,3
+2904,New,Summer preperation,8,6
+2905,New,Summer preperation,20,7
+2906,Loyal,Back to school,23,4
+2907,VIP,Back to school,16,5
+2908,Loyal,Pre-fall shopping,21,3
+2909,VIP,Summer preperation,10,2
+2910,VIP,Pre-fall shopping,15,5
+2911,Loyal,Back to school,27,8
+2912,Loyal,Christmas present,15,4
+2913,Loyal,Pre-fall shopping,19,8
+2914,New,Christmas present,22,6
+2915,New,Christmas present,18,1
+2916,Loyal,Summer preperation,5,5
+2917,Loyal,Pre-fall shopping,7,2
+2918,New,Christmas present,13,7
+2919,Loyal,Summer preperation,18,5
+2920,New,Back to school,19,4
+2921,New,Pre-fall shopping,2,5
+2922,New,Christmas present,15,3
+2923,New,Summer preperation,22,5
+2924,VIP,Summer preperation,10,3
+2925,VIP,Summer preperation,20,4
+2926,VIP,Pre-fall shopping,23,5
+2927,VIP,Back to school,8,9
+2928,VIP,Summer preperation,8,9
+2929,New,Christmas present,5,1
+2930,Loyal,Pre-fall shopping,11,1
+2931,VIP,Summer preperation,15,9
+2932,VIP,Pre-fall shopping,21,8
+2933,VIP,Summer preperation,18,8
+2934,VIP,Pre-fall shopping,28,3
+2935,New,Back to school,17,4
+2936,Loyal,Pre-fall shopping,3,5
+2937,New,Christmas present,14,8
+2938,New,Christmas present,27,8
+2939,New,Pre-fall shopping,16,9
+2940,New,Pre-fall shopping,10,2
+2941,New,Back to school,2,6
+2942,Loyal,Back to school,14,7
+2943,New,Christmas present,20,1
+2944,Loyal,Christmas present,28,3
+2945,Loyal,Back to school,24,4
+2946,VIP,Summer preperation,23,1
+2947,New,Summer preperation,24,9
+2948,New,Pre-fall shopping,16,9
+2949,New,Back to school,30,5
+2950,New,Pre-fall shopping,16,7
+2951,New,Christmas present,12,8
+2952,Loyal,Summer preperation,2,3
+2953,New,Pre-fall shopping,14,2
+2954,New,Christmas present,8,9
+2955,VIP,Summer preperation,6,7
+2956,New,Back to school,17,9
+2957,Loyal,Summer preperation,17,1
+2958,VIP,Summer preperation,9,4
+2959,VIP,Christmas present,29,2
+2960,Loyal,Pre-fall shopping,26,3
+2961,New,Christmas present,14,6
+2962,New,Summer preperation,12,9
+2963,Loyal,Christmas present,11,6
+2964,Loyal,Summer preperation,4,2
+2965,New,Christmas present,25,1
+2966,New,Back to school,5,5
+2967,Loyal,Pre-fall shopping,14,8
+2968,New,Back to school,25,8
+2969,New,Christmas present,19,8
+2970,VIP,Pre-fall shopping,29,1
+2971,New,Christmas present,20,1
+2972,New,Back to school,12,4
+2973,VIP,Christmas present,22,9
+2974,VIP,Pre-fall shopping,18,6
+2975,New,Back to school,6,5
+2976,VIP,Back to school,24,3
+2977,New,Back to school,3,7
+2978,New,Summer preperation,17,7
+2979,Loyal,Back to school,15,9
+2980,Loyal,Back to school,10,4
+2981,Loyal,Back to school,3,8
+2982,New,Pre-fall shopping,30,2
+2983,New,Back to school,11,8
+2984,VIP,Christmas present,11,4
+2985,Loyal,Back to school,18,4
+2986,Loyal,Pre-fall shopping,4,6
+2987,VIP,Back to school,24,6
+2988,VIP,Pre-fall shopping,23,1
+2989,Loyal,Back to school,18,1
+2990,VIP,Pre-fall shopping,10,9
+2991,New,Summer preperation,10,1
+2992,VIP,Back to school,4,3
+2993,New,Christmas present,26,4
+2994,Loyal,Pre-fall shopping,25,1
+2995,Loyal,Christmas present,20,3
+2996,VIP,Back to school,28,7
+2997,New,Summer preperation,12,4
+2998,VIP,Summer preperation,11,8
+2999,Loyal,Summer preperation,15,1
+3000,Loyal,Summer preperation,25,2
+3001,VIP,Back to school,7,4
+3002,VIP,Christmas present,29,6
+3003,VIP,Pre-fall shopping,15,7
+3004,Loyal,Pre-fall shopping,30,1
+3005,Loyal,Summer preperation,8,4
+3006,Loyal,Summer preperation,24,8
+3007,Loyal,Pre-fall shopping,26,8
+3008,Loyal,Pre-fall shopping,25,8
+3009,New,Pre-fall shopping,20,1
+3010,Loyal,Pre-fall shopping,3,2
+3011,Loyal,Christmas present,2,1
+3012,Loyal,Back to school,16,4
+3013,New,Christmas present,21,9
+3014,New,Christmas present,6,2
+3015,Loyal,Pre-fall shopping,8,3
+3016,New,Back to school,16,6
+3017,VIP,Christmas present,25,5
+3018,New,Pre-fall shopping,19,5
+3019,New,Christmas present,4,6
+3020,New,Christmas present,9,9
+3021,Loyal,Back to school,18,1
+3022,VIP,Christmas present,10,7
+3023,VIP,Pre-fall shopping,23,8
+3024,VIP,Christmas present,28,3
+3025,Loyal,Summer preperation,23,2
+3026,New,Pre-fall shopping,11,6
+3027,New,Back to school,13,3
+3028,Loyal,Christmas present,12,2
+3029,Loyal,Back to school,8,2
+3030,New,Summer preperation,9,4
+3031,Loyal,Back to school,25,3
+3032,Loyal,Pre-fall shopping,8,4
+3033,Loyal,Christmas present,30,3
+3034,Loyal,Pre-fall shopping,4,1
+3035,New,Christmas present,26,9
+3036,New,Pre-fall shopping,15,5
+3037,VIP,Christmas present,7,2
+3038,Loyal,Summer preperation,12,5
+3039,VIP,Summer preperation,2,7
+3040,New,Christmas present,13,6
+3041,Loyal,Back to school,26,9
+3042,Loyal,Pre-fall shopping,20,7
+3043,Loyal,Pre-fall shopping,16,4
+3044,VIP,Back to school,6,7
+3045,New,Back to school,26,3
+3046,Loyal,Back to school,13,9
+3047,Loyal,Christmas present,4,6
+3048,VIP,Back to school,2,3
+3049,New,Pre-fall shopping,20,6
+3050,New,Pre-fall shopping,23,2
+3051,VIP,Christmas present,8,1
+3052,New,Back to school,28,1
+3053,Loyal,Christmas present,11,3
+3054,VIP,Christmas present,19,7
+3055,Loyal,Summer preperation,27,3
+3056,Loyal,Christmas present,7,9
+3057,Loyal,Summer preperation,5,9
+3058,VIP,Christmas present,14,4
+3059,Loyal,Christmas present,16,9
+3060,New,Back to school,3,8
+3061,New,Christmas present,20,9
+3062,New,Back to school,19,1
+3063,Loyal,Pre-fall shopping,21,1
+3064,VIP,Back to school,26,4
+3065,New,Summer preperation,30,8
+3066,VIP,Summer preperation,28,5
+3067,VIP,Pre-fall shopping,28,7
+3068,New,Pre-fall shopping,29,4
+3069,New,Summer preperation,22,6
+3070,New,Pre-fall shopping,17,4
+3071,Loyal,Pre-fall shopping,2,4
+3072,VIP,Christmas present,15,1
+3073,Loyal,Back to school,6,7
+3074,New,Christmas present,20,8
+3075,New,Christmas present,30,6
+3076,New,Christmas present,8,2
+3077,New,Back to school,3,8
+3078,Loyal,Christmas present,5,8
+3079,New,Pre-fall shopping,11,2
+3080,New,Christmas present,5,2
+3081,New,Summer preperation,2,5
+3082,VIP,Summer preperation,13,6
+3083,New,Summer preperation,13,2
+3084,Loyal,Christmas present,11,6
+3085,VIP,Pre-fall shopping,11,5
+3086,Loyal,Summer preperation,25,3
+3087,VIP,Pre-fall shopping,8,6
+3088,Loyal,Pre-fall shopping,22,9
+3089,Loyal,Back to school,13,8
+3090,Loyal,Pre-fall shopping,13,6
+3091,Loyal,Back to school,26,8
+3092,VIP,Summer preperation,4,3
+3093,VIP,Back to school,28,1
+3094,VIP,Pre-fall shopping,5,8
+3095,Loyal,Pre-fall shopping,18,1
+3096,New,Back to school,29,4
+3097,New,Pre-fall shopping,29,5
+3098,Loyal,Back to school,12,1
+3099,New,Pre-fall shopping,16,5
+3100,New,Summer preperation,17,2
+3101,New,Summer preperation,2,4
+3102,VIP,Back to school,5,7
+3103,New,Summer preperation,20,3
+3104,New,Summer preperation,16,3
+3105,New,Back to school,15,5
+3106,Loyal,Christmas present,30,4
+3107,VIP,Pre-fall shopping,23,8
+3108,VIP,Summer preperation,15,5
+3109,VIP,Christmas present,5,3
+3110,VIP,Back to school,22,4
+3111,Loyal,Back to school,21,1
+3112,VIP,Back to school,10,8
+3113,Loyal,Back to school,2,8
+3114,VIP,Pre-fall shopping,24,5
+3115,Loyal,Christmas present,9,3
+3116,New,Pre-fall shopping,29,6
+3117,New,Summer preperation,30,6
+3118,Loyal,Pre-fall shopping,17,7
+3119,Loyal,Christmas present,24,7
+3120,VIP,Christmas present,30,9
+3121,Loyal,Christmas present,18,9
+3122,Loyal,Back to school,17,7
+3123,Loyal,Pre-fall shopping,17,5
+3124,Loyal,Christmas present,15,3
+3125,Loyal,Back to school,30,2
+3126,VIP,Christmas present,16,8
+3127,New,Christmas present,14,8
+3128,Loyal,Christmas present,9,8
+3129,VIP,Christmas present,29,6
+3130,VIP,Pre-fall shopping,13,1
+3131,VIP,Pre-fall shopping,13,8
+3132,VIP,Summer preperation,20,5
+3133,VIP,Christmas present,27,1
+3134,Loyal,Summer preperation,5,2
+3135,Loyal,Christmas present,15,6
+3136,New,Back to school,18,3
+3137,VIP,Christmas present,4,9
+3138,Loyal,Pre-fall shopping,30,4
+3139,New,Summer preperation,4,3
+3140,Loyal,Christmas present,24,8
+3141,New,Christmas present,10,5
+3142,Loyal,Back to school,15,6
+3143,VIP,Back to school,29,8
+3144,New,Back to school,20,7
+3145,VIP,Summer preperation,9,4
+3146,VIP,Summer preperation,12,1
+3147,Loyal,Christmas present,3,2
+3148,VIP,Summer preperation,4,3
+3149,VIP,Pre-fall shopping,5,1
+3150,Loyal,Christmas present,24,7
+3151,New,Back to school,28,7
+3152,New,Back to school,9,7
+3153,VIP,Christmas present,18,6
+3154,Loyal,Summer preperation,4,3
+3155,New,Back to school,3,8
+3156,Loyal,Summer preperation,30,2
+3157,Loyal,Pre-fall shopping,24,1
+3158,New,Back to school,7,2
+3159,VIP,Pre-fall shopping,30,9
+3160,New,Pre-fall shopping,14,1
+3161,Loyal,Pre-fall shopping,21,6
+3162,New,Christmas present,6,1
+3163,Loyal,Christmas present,19,8
+3164,Loyal,Pre-fall shopping,21,1
+3165,New,Pre-fall shopping,12,4
+3166,Loyal,Summer preperation,21,6
+3167,Loyal,Back to school,11,2
+3168,New,Christmas present,19,7
+3169,New,Christmas present,3,5
+3170,New,Pre-fall shopping,6,5
+3171,New,Christmas present,4,6
+3172,VIP,Back to school,16,8
+3173,Loyal,Pre-fall shopping,20,9
+3174,New,Pre-fall shopping,3,5
+3175,Loyal,Back to school,29,8
+3176,Loyal,Christmas present,4,8
+3177,Loyal,Back to school,24,2
+3178,VIP,Back to school,2,3
+3179,Loyal,Christmas present,4,1
+3180,VIP,Pre-fall shopping,13,2
+3181,New,Christmas present,4,4
+3182,VIP,Christmas present,16,9
+3183,VIP,Summer preperation,11,6
+3184,New,Back to school,4,1
+3185,VIP,Back to school,23,5
+3186,Loyal,Christmas present,15,5
+3187,VIP,Summer preperation,28,2
+3188,VIP,Pre-fall shopping,19,9
+3189,New,Christmas present,4,5
+3190,New,Back to school,12,5
+3191,VIP,Christmas present,18,3
+3192,Loyal,Back to school,5,1
+3193,Loyal,Pre-fall shopping,4,1
+3194,New,Summer preperation,14,3
+3195,VIP,Back to school,17,3
+3196,Loyal,Pre-fall shopping,20,3
+3197,Loyal,Pre-fall shopping,20,7
+3198,New,Christmas present,26,2
+3199,New,Summer preperation,27,6
+3200,VIP,Summer preperation,3,4
+3201,New,Summer preperation,11,6
+3202,VIP,Pre-fall shopping,12,5
+3203,Loyal,Summer preperation,30,3
+3204,New,Summer preperation,28,1
+3205,Loyal,Pre-fall shopping,24,7
+3206,VIP,Back to school,21,7
+3207,Loyal,Pre-fall shopping,7,2
+3208,New,Pre-fall shopping,22,1
+3209,Loyal,Pre-fall shopping,7,7
+3210,New,Summer preperation,10,3
+3211,Loyal,Back to school,11,1
+3212,VIP,Christmas present,25,3
+3213,New,Pre-fall shopping,30,4
+3214,New,Summer preperation,25,1
+3215,VIP,Summer preperation,29,4
+3216,New,Summer preperation,28,6
+3217,VIP,Summer preperation,3,5
+3218,VIP,Back to school,26,9
+3219,Loyal,Pre-fall shopping,3,1
+3220,New,Summer preperation,17,1
+3221,VIP,Pre-fall shopping,18,2
+3222,New,Back to school,15,2
+3223,VIP,Christmas present,7,5
+3224,New,Back to school,25,9
+3225,VIP,Christmas present,27,1
+3226,New,Summer preperation,16,9
+3227,Loyal,Christmas present,8,8
+3228,VIP,Summer preperation,19,7
+3229,VIP,Summer preperation,21,4
+3230,VIP,Christmas present,5,2
+3231,VIP,Pre-fall shopping,10,8
+3232,Loyal,Pre-fall shopping,28,3
+3233,VIP,Christmas present,27,1
+3234,New,Christmas present,28,6
+3235,New,Back to school,9,4
+3236,Loyal,Christmas present,9,3
+3237,VIP,Christmas present,17,6
+3238,New,Back to school,29,8
+3239,VIP,Christmas present,16,6
+3240,New,Summer preperation,23,3
+3241,VIP,Christmas present,2,6
+3242,New,Back to school,15,2
+3243,VIP,Pre-fall shopping,29,9
+3244,New,Pre-fall shopping,8,7
+3245,VIP,Christmas present,20,8
+3246,New,Pre-fall shopping,24,9
+3247,Loyal,Pre-fall shopping,7,7
+3248,New,Back to school,11,6
+3249,New,Summer preperation,28,4
+3250,VIP,Christmas present,5,2
+3251,VIP,Summer preperation,15,4
+3252,VIP,Pre-fall shopping,7,3
+3253,New,Christmas present,24,3
+3254,VIP,Summer preperation,17,2
+3255,New,Summer preperation,15,7
+3256,VIP,Christmas present,4,1
+3257,Loyal,Summer preperation,10,3
+3258,VIP,Pre-fall shopping,8,8
+3259,New,Pre-fall shopping,25,8
+3260,New,Christmas present,10,9
+3261,VIP,Pre-fall shopping,11,1
+3262,Loyal,Pre-fall shopping,15,6
+3263,VIP,Christmas present,24,5
+3264,New,Pre-fall shopping,20,7
+3265,Loyal,Pre-fall shopping,25,9
+3266,Loyal,Christmas present,16,2
+3267,New,Back to school,19,1
+3268,New,Pre-fall shopping,24,2
+3269,Loyal,Pre-fall shopping,8,7
+3270,New,Summer preperation,10,3
+3271,Loyal,Back to school,3,6
+3272,Loyal,Christmas present,7,7
+3273,Loyal,Christmas present,17,9
+3274,VIP,Back to school,4,9
+3275,Loyal,Pre-fall shopping,21,1
+3276,VIP,Back to school,23,9
+3277,VIP,Christmas present,22,7
+3278,New,Christmas present,22,9
+3279,VIP,Pre-fall shopping,17,4
+3280,Loyal,Back to school,2,1
+3281,VIP,Christmas present,10,9
+3282,VIP,Pre-fall shopping,24,6
+3283,Loyal,Christmas present,27,6
+3284,New,Pre-fall shopping,24,1
+3285,Loyal,Back to school,4,6
+3286,VIP,Pre-fall shopping,12,2
+3287,VIP,Christmas present,7,9
+3288,VIP,Pre-fall shopping,10,8
+3289,VIP,Christmas present,6,9
+3290,New,Back to school,14,6
+3291,Loyal,Christmas present,27,3
+3292,VIP,Pre-fall shopping,25,3
+3293,Loyal,Summer preperation,28,6
+3294,VIP,Summer preperation,3,5
+3295,New,Summer preperation,14,1
+3296,New,Back to school,12,8
+3297,New,Pre-fall shopping,27,2
+3298,VIP,Pre-fall shopping,25,6
+3299,Loyal,Summer preperation,18,6
+3300,New,Pre-fall shopping,22,1
+3301,VIP,Back to school,2,7
+3302,Loyal,Christmas present,6,9
+3303,New,Summer preperation,21,3
+3304,VIP,Summer preperation,5,7
+3305,Loyal,Summer preperation,20,7
+3306,New,Summer preperation,5,1
+3307,Loyal,Pre-fall shopping,6,1
+3308,VIP,Summer preperation,19,6
+3309,VIP,Back to school,18,9
+3310,VIP,Pre-fall shopping,26,7
+3311,Loyal,Summer preperation,10,1
+3312,VIP,Pre-fall shopping,13,8
+3313,New,Back to school,28,1
+3314,New,Christmas present,24,4
+3315,New,Christmas present,16,1
+3316,Loyal,Back to school,7,4
+3317,New,Back to school,23,5
+3318,VIP,Christmas present,17,6
+3319,VIP,Back to school,15,5
+3320,New,Pre-fall shopping,20,2
+3321,New,Christmas present,11,7
+3322,VIP,Christmas present,6,3
+3323,VIP,Pre-fall shopping,13,7
+3324,Loyal,Christmas present,7,6
+3325,New,Christmas present,25,4
+3326,New,Back to school,19,1
+3327,Loyal,Summer preperation,25,7
+3328,VIP,Summer preperation,30,6
+3329,Loyal,Christmas present,26,4
+3330,VIP,Summer preperation,11,3
+3331,New,Back to school,9,4
+3332,New,Summer preperation,7,5
+3333,New,Pre-fall shopping,24,5
+3334,New,Summer preperation,17,9
+3335,New,Summer preperation,6,8
+3336,VIP,Christmas present,3,7
+3337,New,Back to school,29,6
+3338,New,Pre-fall shopping,28,6
+3339,Loyal,Summer preperation,13,7
+3340,Loyal,Christmas present,26,5
+3341,Loyal,Back to school,20,8
+3342,VIP,Pre-fall shopping,23,9
+3343,Loyal,Christmas present,28,4
+3344,New,Back to school,16,2
+3345,VIP,Pre-fall shopping,23,5
+3346,VIP,Back to school,14,6
+3347,New,Back to school,19,2
+3348,VIP,Back to school,19,6
+3349,New,Pre-fall shopping,21,3
+3350,New,Pre-fall shopping,10,6
+3351,Loyal,Summer preperation,24,6
+3352,VIP,Christmas present,24,9
+3353,New,Christmas present,7,3
+3354,Loyal,Christmas present,12,6
+3355,Loyal,Summer preperation,10,5
+3356,Loyal,Pre-fall shopping,13,1
+3357,Loyal,Christmas present,14,7
+3358,Loyal,Back to school,7,5
+3359,VIP,Christmas present,19,1
+3360,VIP,Pre-fall shopping,8,1
+3361,VIP,Christmas present,3,2
+3362,New,Summer preperation,17,9
+3363,Loyal,Pre-fall shopping,18,5
+3364,New,Summer preperation,21,9
+3365,New,Pre-fall shopping,24,8
+3366,VIP,Back to school,10,7
+3367,VIP,Pre-fall shopping,8,2
+3368,VIP,Back to school,17,2
+3369,VIP,Back to school,17,9
+3370,VIP,Summer preperation,14,5
+3371,Loyal,Christmas present,26,1
+3372,New,Pre-fall shopping,27,9
+3373,New,Pre-fall shopping,17,1
+3374,Loyal,Back to school,13,3
+3375,Loyal,Back to school,18,7
+3376,VIP,Pre-fall shopping,7,2
+3377,Loyal,Back to school,28,3
+3378,New,Summer preperation,17,5
+3379,VIP,Christmas present,30,5
+3380,VIP,Christmas present,21,3
+3381,New,Pre-fall shopping,4,6
+3382,Loyal,Summer preperation,9,2
+3383,New,Pre-fall shopping,17,5
+3384,Loyal,Back to school,9,2
+3385,VIP,Christmas present,8,5
+3386,New,Christmas present,24,7
+3387,Loyal,Back to school,6,4
+3388,Loyal,Pre-fall shopping,29,6
+3389,VIP,Back to school,20,1
+3390,Loyal,Back to school,12,1
+3391,New,Back to school,18,9
+3392,VIP,Summer preperation,11,5
+3393,Loyal,Pre-fall shopping,25,7
+3394,Loyal,Summer preperation,21,2
+3395,VIP,Christmas present,25,4
+3396,VIP,Summer preperation,15,7
+3397,VIP,Back to school,27,2
+3398,New,Christmas present,9,3
+3399,Loyal,Christmas present,21,3
+3400,VIP,Pre-fall shopping,24,4
+3401,New,Summer preperation,5,5
+3402,Loyal,Summer preperation,11,7
+3403,New,Pre-fall shopping,10,9
+3404,VIP,Back to school,6,6
+3405,New,Back to school,3,6
+3406,New,Summer preperation,26,3
+3407,New,Summer preperation,24,5
+3408,New,Christmas present,2,2
+3409,New,Back to school,19,8
+3410,Loyal,Summer preperation,29,3
+3411,New,Back to school,14,5
+3412,Loyal,Back to school,13,3
+3413,New,Pre-fall shopping,16,1
+3414,New,Back to school,5,2
+3415,Loyal,Pre-fall shopping,19,6
+3416,New,Summer preperation,4,8
+3417,New,Christmas present,16,9
+3418,New,Summer preperation,7,4
+3419,New,Pre-fall shopping,17,6
+3420,New,Pre-fall shopping,4,7
+3421,New,Christmas present,24,5
+3422,Loyal,Summer preperation,29,6
+3423,New,Pre-fall shopping,13,3
+3424,Loyal,Pre-fall shopping,28,7
+3425,New,Summer preperation,22,8
+3426,VIP,Pre-fall shopping,24,7
+3427,VIP,Pre-fall shopping,2,8
+3428,VIP,Back to school,30,8
+3429,VIP,Christmas present,12,2
+3430,VIP,Summer preperation,2,4
+3431,New,Back to school,28,9
+3432,VIP,Back to school,12,6
+3433,Loyal,Pre-fall shopping,16,8
+3434,Loyal,Pre-fall shopping,17,8
+3435,New,Summer preperation,10,9
+3436,New,Back to school,25,7
+3437,VIP,Pre-fall shopping,6,8
+3438,New,Back to school,18,4
+3439,New,Christmas present,17,7
+3440,New,Christmas present,21,2
+3441,New,Back to school,7,3
+3442,Loyal,Back to school,21,2
+3443,Loyal,Pre-fall shopping,7,3
+3444,Loyal,Back to school,28,3
+3445,Loyal,Christmas present,16,7
+3446,New,Back to school,26,9
+3447,Loyal,Back to school,21,5
+3448,VIP,Pre-fall shopping,19,5
+3449,Loyal,Back to school,7,2
+3450,Loyal,Pre-fall shopping,4,7
+3451,New,Summer preperation,23,9
+3452,New,Christmas present,23,9
+3453,VIP,Back to school,6,7
+3454,New,Pre-fall shopping,4,9
+3455,VIP,Christmas present,10,9
+3456,Loyal,Summer preperation,29,6
+3457,New,Back to school,28,4
+3458,VIP,Summer preperation,28,2
+3459,New,Christmas present,3,3
+3460,VIP,Summer preperation,20,8
+3461,New,Back to school,27,8
+3462,VIP,Christmas present,5,7
+3463,VIP,Christmas present,15,2
+3464,VIP,Back to school,21,4
+3465,New,Pre-fall shopping,7,1
+3466,VIP,Summer preperation,16,5
+3467,Loyal,Christmas present,17,4
+3468,VIP,Back to school,10,2
+3469,Loyal,Summer preperation,15,6
+3470,New,Back to school,5,3
+3471,VIP,Summer preperation,7,1
+3472,New,Back to school,14,2
+3473,VIP,Christmas present,18,5
+3474,VIP,Pre-fall shopping,23,1
+3475,Loyal,Pre-fall shopping,13,9
+3476,New,Christmas present,6,2
+3477,New,Back to school,22,2
+3478,Loyal,Summer preperation,28,4
+3479,New,Christmas present,3,7
+3480,New,Pre-fall shopping,22,8
+3481,New,Summer preperation,3,5
+3482,VIP,Summer preperation,15,7
+3483,New,Summer preperation,14,4
+3484,Loyal,Back to school,27,5
+3485,New,Pre-fall shopping,11,9
+3486,VIP,Christmas present,20,7
+3487,VIP,Summer preperation,28,2
+3488,Loyal,Christmas present,11,5
+3489,Loyal,Back to school,4,3
+3490,Loyal,Pre-fall shopping,23,3
+3491,Loyal,Pre-fall shopping,23,7
+3492,New,Pre-fall shopping,8,9
+3493,VIP,Summer preperation,10,6
+3494,VIP,Summer preperation,29,8
+3495,VIP,Summer preperation,10,4
+3496,New,Summer preperation,4,7
+3497,Loyal,Back to school,8,8
+3498,Loyal,Summer preperation,19,3
+3499,VIP,Back to school,24,9
+3500,New,Christmas present,9,2
+3501,VIP,Summer preperation,8,9
+3502,VIP,Back to school,8,8
+3503,Loyal,Christmas present,20,6
+3504,New,Back to school,24,1
+3505,VIP,Back to school,19,7
+3506,New,Pre-fall shopping,14,8
+3507,New,Summer preperation,16,1
+3508,New,Pre-fall shopping,12,3
+3509,VIP,Christmas present,23,2
+3510,VIP,Christmas present,27,9
+3511,Loyal,Back to school,24,2
+3512,Loyal,Christmas present,10,2
+3513,New,Pre-fall shopping,9,2
+3514,VIP,Back to school,26,9
+3515,New,Pre-fall shopping,8,2
+3516,New,Back to school,14,5
+3517,VIP,Pre-fall shopping,23,9
+3518,Loyal,Back to school,30,8
+3519,New,Pre-fall shopping,25,2
+3520,Loyal,Back to school,4,8
+3521,New,Summer preperation,19,1
+3522,VIP,Christmas present,8,5
+3523,New,Christmas present,27,1
+3524,New,Christmas present,26,4
+3525,Loyal,Summer preperation,24,4
+3526,Loyal,Pre-fall shopping,12,8
+3527,VIP,Summer preperation,10,5
+3528,New,Christmas present,19,1
+3529,New,Pre-fall shopping,8,9
+3530,VIP,Christmas present,23,1
+3531,VIP,Summer preperation,17,7
+3532,VIP,Pre-fall shopping,16,3
+3533,VIP,Summer preperation,13,9
+3534,VIP,Christmas present,9,7
+3535,New,Back to school,16,5
+3536,VIP,Back to school,2,6
+3537,VIP,Pre-fall shopping,24,7
+3538,VIP,Summer preperation,16,3
+3539,VIP,Summer preperation,13,8
+3540,New,Summer preperation,18,3
+3541,Loyal,Pre-fall shopping,18,2
+3542,VIP,Back to school,25,9
+3543,VIP,Back to school,2,4
+3544,Loyal,Back to school,23,6
+3545,Loyal,Pre-fall shopping,13,7
+3546,Loyal,Back to school,8,1
+3547,New,Christmas present,8,1
+3548,New,Summer preperation,13,2
+3549,VIP,Christmas present,25,8
+3550,Loyal,Back to school,9,8
+3551,New,Back to school,10,1
+3552,New,Back to school,5,7
+3553,VIP,Christmas present,30,7
+3554,Loyal,Christmas present,23,3
+3555,VIP,Back to school,23,6
+3556,Loyal,Pre-fall shopping,6,5
+3557,Loyal,Christmas present,21,4
+3558,New,Summer preperation,12,3
+3559,VIP,Christmas present,24,6
+3560,Loyal,Back to school,21,4
+3561,VIP,Back to school,15,8
+3562,VIP,Back to school,15,8
+3563,Loyal,Christmas present,12,9
+3564,Loyal,Summer preperation,30,7
+3565,New,Summer preperation,19,4
+3566,VIP,Christmas present,17,6
+3567,Loyal,Pre-fall shopping,24,7
+3568,Loyal,Pre-fall shopping,26,1
+3569,VIP,Summer preperation,13,6
+3570,Loyal,Christmas present,11,3
+3571,VIP,Summer preperation,26,2
+3572,VIP,Christmas present,25,6
+3573,VIP,Back to school,3,5
+3574,VIP,Pre-fall shopping,8,2
+3575,New,Christmas present,9,8
+3576,Loyal,Pre-fall shopping,3,4
+3577,Loyal,Pre-fall shopping,25,1
+3578,Loyal,Summer preperation,4,4
+3579,Loyal,Christmas present,24,4
+3580,VIP,Pre-fall shopping,3,9
+3581,Loyal,Christmas present,24,2
+3582,Loyal,Back to school,17,3
+3583,VIP,Back to school,3,8
+3584,VIP,Pre-fall shopping,17,3
+3585,VIP,Back to school,9,6
+3586,Loyal,Pre-fall shopping,3,7
+3587,VIP,Pre-fall shopping,19,3
+3588,New,Pre-fall shopping,12,9
+3589,VIP,Back to school,20,8
+3590,VIP,Christmas present,10,4
+3591,VIP,Back to school,6,8
+3592,VIP,Pre-fall shopping,27,2
+3593,New,Back to school,14,9
+3594,VIP,Pre-fall shopping,15,4
+3595,Loyal,Pre-fall shopping,4,1
+3596,VIP,Pre-fall shopping,2,7
+3597,Loyal,Back to school,7,8
+3598,VIP,Christmas present,30,7
+3599,Loyal,Christmas present,29,5
+3600,Loyal,Summer preperation,25,2
+3601,VIP,Pre-fall shopping,10,4
+3602,VIP,Pre-fall shopping,24,4
+3603,VIP,Summer preperation,21,2
+3604,VIP,Back to school,15,1
+3605,Loyal,Christmas present,14,3
+3606,Loyal,Summer preperation,29,3
+3607,VIP,Summer preperation,20,3
+3608,New,Pre-fall shopping,13,1
+3609,VIP,Pre-fall shopping,7,7
+3610,New,Back to school,3,7
+3611,Loyal,Back to school,26,9
+3612,Loyal,Back to school,26,4
+3613,Loyal,Summer preperation,10,4
+3614,VIP,Summer preperation,30,3
+3615,VIP,Back to school,9,7
+3616,VIP,Summer preperation,24,3
+3617,VIP,Summer preperation,10,4
+3618,Loyal,Back to school,9,8
+3619,Loyal,Summer preperation,10,6
+3620,Loyal,Summer preperation,5,8
+3621,New,Back to school,20,5
+3622,Loyal,Pre-fall shopping,14,8
+3623,New,Christmas present,8,6
+3624,New,Back to school,7,7
+3625,Loyal,Back to school,7,7
+3626,Loyal,Summer preperation,17,8
+3627,VIP,Christmas present,30,2
+3628,New,Christmas present,14,5
+3629,Loyal,Pre-fall shopping,13,5
+3630,Loyal,Back to school,8,9
+3631,Loyal,Summer preperation,8,5
+3632,Loyal,Pre-fall shopping,26,9
+3633,Loyal,Summer preperation,8,6
+3634,VIP,Christmas present,14,6
+3635,New,Pre-fall shopping,14,5
+3636,VIP,Summer preperation,30,5
+3637,Loyal,Christmas present,14,1
+3638,New,Back to school,17,5
+3639,New,Christmas present,2,8
+3640,VIP,Summer preperation,12,2
+3641,VIP,Pre-fall shopping,8,5
+3642,New,Back to school,11,9
+3643,VIP,Summer preperation,9,3
+3644,Loyal,Pre-fall shopping,27,8
+3645,VIP,Pre-fall shopping,24,8
+3646,Loyal,Christmas present,27,1
+3647,VIP,Pre-fall shopping,18,4
+3648,VIP,Christmas present,18,7
+3649,Loyal,Christmas present,16,4
+3650,VIP,Christmas present,3,8
+3651,Loyal,Summer preperation,7,5
+3652,Loyal,Summer preperation,15,8
+3653,Loyal,Summer preperation,4,9
+3654,Loyal,Christmas present,28,1
+3655,New,Pre-fall shopping,27,2
+3656,New,Christmas present,3,2
+3657,New,Back to school,2,3
+3658,Loyal,Summer preperation,16,7
+3659,Loyal,Christmas present,18,6
+3660,Loyal,Pre-fall shopping,18,4
+3661,New,Summer preperation,3,3
+3662,Loyal,Summer preperation,17,1
+3663,VIP,Summer preperation,24,1
+3664,New,Summer preperation,6,9
+3665,Loyal,Christmas present,4,3
+3666,Loyal,Christmas present,2,1
+3667,Loyal,Back to school,27,1
+3668,New,Summer preperation,7,8
+3669,New,Pre-fall shopping,16,3
+3670,VIP,Back to school,10,8
+3671,VIP,Summer preperation,9,4
+3672,Loyal,Pre-fall shopping,21,9
+3673,Loyal,Summer preperation,8,6
+3674,Loyal,Summer preperation,10,3
+3675,VIP,Back to school,16,7
+3676,Loyal,Christmas present,14,6
+3677,VIP,Summer preperation,13,9
+3678,New,Christmas present,23,7
+3679,New,Pre-fall shopping,27,8
+3680,VIP,Christmas present,18,8
+3681,New,Pre-fall shopping,4,6
+3682,Loyal,Pre-fall shopping,11,5
+3683,Loyal,Christmas present,9,9
+3684,New,Pre-fall shopping,14,3
+3685,Loyal,Back to school,25,4
+3686,New,Pre-fall shopping,27,3
+3687,Loyal,Summer preperation,7,2
+3688,Loyal,Back to school,7,6
+3689,New,Back to school,10,8
+3690,New,Pre-fall shopping,16,5
+3691,Loyal,Christmas present,9,9
+3692,Loyal,Summer preperation,13,3
+3693,New,Christmas present,13,5
+3694,VIP,Back to school,14,5
+3695,New,Back to school,12,8
+3696,New,Back to school,21,3
+3697,VIP,Christmas present,23,1
+3698,VIP,Pre-fall shopping,29,3
+3699,Loyal,Summer preperation,14,1
+3700,VIP,Christmas present,13,6
+3701,New,Back to school,4,3
+3702,Loyal,Summer preperation,26,5
+3703,Loyal,Pre-fall shopping,4,1
+3704,New,Back to school,15,6
+3705,VIP,Back to school,22,3
+3706,VIP,Back to school,23,9
+3707,VIP,Summer preperation,21,6
+3708,Loyal,Back to school,10,5
+3709,New,Back to school,28,7
+3710,VIP,Summer preperation,13,9
+3711,VIP,Christmas present,22,4
+3712,Loyal,Summer preperation,19,2
+3713,Loyal,Back to school,14,3
+3714,Loyal,Summer preperation,30,9
+3715,VIP,Christmas present,28,7
+3716,Loyal,Back to school,12,3
+3717,VIP,Back to school,29,2
+3718,VIP,Back to school,18,7
+3719,New,Summer preperation,3,4
+3720,New,Back to school,28,6
+3721,New,Christmas present,30,7
+3722,VIP,Back to school,6,1
+3723,Loyal,Back to school,6,7
+3724,Loyal,Christmas present,26,8
+3725,New,Summer preperation,26,8
+3726,VIP,Summer preperation,27,1
+3727,VIP,Back to school,5,9
+3728,VIP,Back to school,18,5
+3729,Loyal,Christmas present,25,3
+3730,Loyal,Christmas present,25,6
+3731,New,Summer preperation,11,4
+3732,VIP,Christmas present,6,7
+3733,New,Back to school,29,3
+3734,VIP,Summer preperation,27,4
+3735,Loyal,Back to school,23,7
+3736,New,Back to school,12,7
+3737,VIP,Back to school,5,6
+3738,New,Summer preperation,18,1
+3739,New,Pre-fall shopping,2,2
+3740,VIP,Pre-fall shopping,4,2
+3741,New,Summer preperation,17,7
+3742,VIP,Christmas present,19,2
+3743,VIP,Pre-fall shopping,15,8
+3744,VIP,Back to school,30,9
+3745,VIP,Pre-fall shopping,13,7
+3746,VIP,Pre-fall shopping,27,2
+3747,New,Christmas present,19,4
+3748,New,Summer preperation,8,3
+3749,New,Back to school,19,4
+3750,New,Back to school,3,4
+3751,New,Pre-fall shopping,21,2
+3752,Loyal,Christmas present,25,2
+3753,VIP,Pre-fall shopping,22,6
+3754,New,Christmas present,8,2
+3755,New,Christmas present,24,6
+3756,New,Summer preperation,11,6
+3757,Loyal,Pre-fall shopping,24,4
+3758,Loyal,Pre-fall shopping,16,6
+3759,New,Back to school,29,1
+3760,VIP,Summer preperation,6,8
+3761,VIP,Christmas present,26,9
+3762,New,Pre-fall shopping,7,9
+3763,New,Christmas present,13,1
+3764,VIP,Christmas present,26,7
+3765,New,Back to school,27,4
+3766,VIP,Pre-fall shopping,3,9
+3767,VIP,Summer preperation,25,6
+3768,Loyal,Back to school,30,4
+3769,Loyal,Christmas present,10,9
+3770,New,Christmas present,5,6
+3771,VIP,Christmas present,11,1
+3772,VIP,Christmas present,24,7
+3773,Loyal,Back to school,28,1
+3774,New,Pre-fall shopping,25,7
+3775,VIP,Christmas present,12,2
+3776,VIP,Pre-fall shopping,27,1
+3777,VIP,Christmas present,13,9
+3778,VIP,Pre-fall shopping,8,2
+3779,Loyal,Pre-fall shopping,6,2
+3780,VIP,Back to school,28,2
+3781,Loyal,Back to school,18,9
+3782,New,Summer preperation,28,8
+3783,VIP,Back to school,12,8
+3784,New,Christmas present,20,4
+3785,Loyal,Christmas present,16,4
+3786,VIP,Christmas present,17,3
+3787,VIP,Pre-fall shopping,26,2
+3788,Loyal,Back to school,18,2
+3789,New,Pre-fall shopping,26,1
+3790,Loyal,Christmas present,11,3
+3791,Loyal,Summer preperation,2,8
+3792,VIP,Christmas present,28,6
+3793,Loyal,Pre-fall shopping,23,7
+3794,New,Christmas present,6,3
+3795,Loyal,Pre-fall shopping,5,8
+3796,VIP,Christmas present,15,1
+3797,Loyal,Summer preperation,18,8
+3798,VIP,Back to school,13,9
+3799,New,Back to school,6,1
+3800,VIP,Christmas present,9,2
+3801,Loyal,Christmas present,2,6
+3802,VIP,Summer preperation,21,9
+3803,Loyal,Pre-fall shopping,11,3
+3804,Loyal,Summer preperation,30,7
+3805,VIP,Summer preperation,6,3
+3806,VIP,Pre-fall shopping,4,3
+3807,Loyal,Christmas present,27,8
+3808,VIP,Back to school,19,4
+3809,Loyal,Pre-fall shopping,10,7
+3810,VIP,Back to school,19,4
+3811,Loyal,Back to school,25,9
+3812,VIP,Summer preperation,30,8
+3813,New,Back to school,13,5
+3814,Loyal,Summer preperation,3,6
+3815,New,Pre-fall shopping,2,7
+3816,New,Back to school,10,4
+3817,New,Pre-fall shopping,3,7
+3818,Loyal,Christmas present,5,9
+3819,New,Pre-fall shopping,6,7
+3820,Loyal,Summer preperation,25,8
+3821,New,Pre-fall shopping,25,9
+3822,New,Summer preperation,3,4
+3823,VIP,Summer preperation,7,8
+3824,New,Summer preperation,12,1
+3825,New,Pre-fall shopping,4,4
+3826,New,Back to school,23,3
+3827,New,Christmas present,7,5
+3828,VIP,Pre-fall shopping,22,9
+3829,Loyal,Back to school,18,4
+3830,New,Summer preperation,11,3
+3831,Loyal,Pre-fall shopping,2,4
+3832,New,Christmas present,6,7
+3833,New,Christmas present,8,8
+3834,Loyal,Summer preperation,8,8
+3835,Loyal,Pre-fall shopping,3,9
+3836,VIP,Pre-fall shopping,28,8
+3837,New,Back to school,5,5
+3838,New,Back to school,27,4
+3839,Loyal,Back to school,19,4
+3840,Loyal,Back to school,27,8
+3841,VIP,Christmas present,5,8
+3842,Loyal,Summer preperation,6,8
+3843,VIP,Pre-fall shopping,26,8
+3844,Loyal,Back to school,18,7
+3845,New,Pre-fall shopping,21,3
+3846,New,Pre-fall shopping,5,4
+3847,New,Summer preperation,3,9
+3848,Loyal,Pre-fall shopping,10,4
+3849,New,Back to school,20,5
+3850,VIP,Summer preperation,5,8
+3851,Loyal,Back to school,28,9
+3852,New,Back to school,8,6
+3853,Loyal,Back to school,29,1
+3854,New,Christmas present,20,3
+3855,New,Back to school,20,1
+3856,Loyal,Back to school,23,9
+3857,VIP,Christmas present,17,1
+3858,VIP,Summer preperation,10,7
+3859,Loyal,Back to school,3,1
+3860,New,Summer preperation,5,8
+3861,New,Summer preperation,19,1
+3862,New,Pre-fall shopping,23,9
+3863,VIP,Summer preperation,27,2
+3864,VIP,Christmas present,6,9
+3865,New,Christmas present,28,2
+3866,New,Summer preperation,12,5
+3867,Loyal,Back to school,11,6
+3868,Loyal,Back to school,20,5
+3869,Loyal,Pre-fall shopping,17,6
+3870,VIP,Christmas present,30,5
+3871,New,Pre-fall shopping,5,6
+3872,VIP,Back to school,12,3
+3873,New,Back to school,15,2
+3874,New,Back to school,4,4
+3875,New,Summer preperation,23,7
+3876,New,Summer preperation,17,5
+3877,VIP,Back to school,13,8
+3878,New,Back to school,23,5
+3879,New,Christmas present,29,1
+3880,New,Back to school,3,7
+3881,Loyal,Christmas present,28,5
+3882,New,Back to school,20,2
+3883,VIP,Back to school,17,8
+3884,New,Back to school,14,4
+3885,New,Back to school,10,3
+3886,VIP,Pre-fall shopping,6,8
+3887,New,Back to school,12,3
+3888,New,Summer preperation,19,4
+3889,New,Christmas present,11,4
+3890,VIP,Pre-fall shopping,20,8
+3891,Loyal,Christmas present,11,7
+3892,Loyal,Christmas present,5,9
+3893,Loyal,Summer preperation,27,5
+3894,New,Christmas present,10,8
+3895,VIP,Back to school,10,6
+3896,VIP,Pre-fall shopping,22,8
+3897,VIP,Christmas present,29,1
+3898,Loyal,Back to school,14,2
+3899,New,Christmas present,15,6
+3900,Loyal,Pre-fall shopping,15,3

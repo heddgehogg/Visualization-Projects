@@ -1,0 +1,11 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Payment Method,Shipping Type,Previous Purchases,Preferred Payment Method,Frequency of Purchases,Customer Segmentation,Seasonal Trends,Delivery Time,Number of Items Purchased,X,Y,Code
+99,20,Male,Jeans,Clothing,67,New York,XL,Teal,Spring,2.6,Cash,Next Day Air,20,Bank Transfer,Annually,Loyal,Christmas present,24,9,37.8393,-84.27,ID
+1349,19,Male,Belt,Accessories,54,Nebraska,XL,Purple,Spring,3.2,PayPal,Standard,23,Credit Card,Fortnightly,New,Back to school,14,9,42.4072,-71.3824,CO
+3195,43,Female,Sneakers,Footwear,52,Maryland,L,Gold,Summer,4.6,Debit Card,Standard,10,Credit Card,Bi-Weekly,Loyal,Back to school,23,9,43.8041,-120.5542,MN
+1240,62,Male,Coat,Outerwear,37,New Jersey,XL,Magenta,Spring,4.8,PayPal,Standard,32,Debit Card,Every 3 Months,VIP,Back to school,13,9,35.0078,-97.0929,HI
+1269,23,Male,Jacket,Outerwear,88,Idaho,XL,Charcoal,Winter,2.9,Venmo,Next Day Air,25,Debit Card,Bi-Weekly,VIP,Summer preperation,25,9,40.4173,-82.9071,NH
+3825,54,Female,Shorts,Clothing,26,Georgia,M,Olive,Summer,4.0,Credit Card,Free Shipping,31,Credit Card,Quarterly,VIP,Back to school,26,9,41.4925,-99.9018,MN
+1290,35,Male,Jacket,Outerwear,24,New Hampshire,M,Red,Fall,2.9,Debit Card,Next Day Air,10,PayPal,Weekly,Loyal,Christmas present,7,9,43.1939,-71.5724,RI
+1304,34,Male,Blouse,Clothing,32,New York,L,Silver,Summer,3.1,Venmo,Next Day Air,10,Credit Card,Annually,VIP,Christmas present,16,9,40.6331,-89.3985,TN
+47,57,Male,Shirt,Clothing,43,California,L,White,Summer,2.9,Venmo,Store Pickup,45,Cash,Quarterly,Loyal,Back to school,9,9,63.5888,-154.4931,VA
+37,35,Male,T-shirt,Clothing,69,Illinois,M,Maroon,Winter,4.6,Cash,Free Shipping,44,PayPal,Fortnightly,Loyal,Back to school,11,9,31.9686,-99.9018,WA
