@@ -24,13 +24,13 @@ Welcome to my creative data storytelling project, where I explore **consumer beh
 
 ---
 ## Datasets Used ##
-| Notebook                                                                       | Datasets Used           |
-|--------------------------------------------------------------------------------|-------------------------|
-| [clothes_habits.ipynb](./clothes_habits.ipynb)                                 |                         |
-| [Visualization_How Do People Die.ipynb](.Visualization_How_Do_People_Die.ipynb)|                         |
-| [Visualization_Maps.ipynb](.Visualization_Maps.ipynb)                          |                         |         
-| [Visualization_WordClouds.ipynb](.Visualization_WordClouds.ipynb)              |                         |
-| [creating_data_for_map.ipynb](.creating_data_for_map.ipynb)                    |                         |
+| Notebook                                                               | Datasets Used           |
+|------------------------------------------------------------------------|-------------------------|
+| [clothes_habits.ipynb](./clothes_habits.ipynb)                         |                         |
+| [visualization_of_mortality.ipynb](./visualization_of_mortality.ipynb) |                         |
+| [Visualization_Maps.ipynb](.Visualization_Maps.ipynb)                  |                         |         
+| [Visualization_WordClouds.ipynb](.Visualization_WordClouds.ipynb)      |                         |
+| [creating_data_for_map.ipynb](.creating_data_for_map.ipynb)            |                         |
 
 ---
 ## Key Highlights ##
