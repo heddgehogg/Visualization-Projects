@@ -25,7 +25,7 @@ Welcome to my creative data storytelling project, where I explore **consumer beh
 ## Datasets Used ##
 | Notebook                                                               | Datasets Used           |
 |------------------------------------------------------------------------|-------------------------|
-| [clothes_habits.ipynb](./clothes_habits.ipynb)                         |                         |
+| [clothes_habits.ipynb](./clothes_habits.ipynb)                         | [shopping_trends.csv](./data/shopping_trends.csv) |
 | [visualization_of_mortality.ipynb](./visualization_of_mortality.ipynb) |                         |
 | [Visualization_Maps.ipynb](.Visualization_Maps.ipynb)                  |                         |         
 | [Visualization_WordClouds.ipynb](.Visualization_WordClouds.ipynb)      |                         |
