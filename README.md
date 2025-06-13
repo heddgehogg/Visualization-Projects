@@ -8,7 +8,7 @@ Welcome to my creative data storytelling project, where I explore **consumer beh
 | File/Folder                           | Description                                                                    |
 |---------------------------------------|--------------------------------------------------------------------------------|
 | data/                                 | Contains cleaned and raw datasets used across notebooks.                       |
-| images/                               | Stores generated visualizations (charts, maps, word clouds, etc.).             |
+| images/                               | Stores generated visualizations (word clouds, useful images etc.).             |
 | clothes_habits.ipynb                  | Analyzes consumer habits in sustainable fashion and second-hand clothing.      |
 | Visualization_How Do People Die.ipynb | Visual storytelling on causes of death globally.                               |
 | Visualization_Maps.ipynb              | Displays map-based insights (e.g., fashion trends by country).                 |
