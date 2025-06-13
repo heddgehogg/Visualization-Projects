@@ -7,7 +7,6 @@ Welcome to my creative data storytelling project, where I explore **consumer beh
 
 | File/Folder                           | Description                                                                    |
 |---------------------------------------|--------------------------------------------------------------------------------|
-| creating_data_for_map.ipynb           | Prepares geospatial data for map visualizations.                               |
 | data/                                 | Contains cleaned and raw datasets used across notebooks.                       |
 | images/                               | Stores generated visualizations (charts, maps, word clouds, etc.).             |
 | clothes_habits.ipynb                  | Analyzes consumer habits in sustainable fashion and second-hand clothing.      |
