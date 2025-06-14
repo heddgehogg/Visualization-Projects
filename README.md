@@ -9,10 +9,10 @@ Welcome to my creative data storytelling project, where I explore **consumer beh
 |---------------------------------------|--------------------------------------------------------------------------------|
 | data/                                 | Contains cleaned and raw datasets used across notebooks.                       |
 | images/                               | Stores generated visualizations (word clouds, useful images etc.).             |
-| clothes_habits.ipynb                  | Analyzes consumer habits in sustainable fashion and second-hand clothing.      |
-| Visualization_How Do People Die.ipynb | Visual storytelling on causes of death globally.                               |
-| Visualization_Maps.ipynb              | Displays map-based insights (e.g., fashion trends by country).                 |
-| Visualization_WordClouds.ipynb        | Creates engaging word clouds based on text data (e.g., reasons for purchases). |
+| visualization_clothes_habits.ipynb    | Analyzes consumer habits in sustainable fashion and second-hand clothing.      |
+| visualization_maps.ipynb              | Displays map-based insights (e.g., fashion trends by country).                 |
+| visualization_of_mortality.ipynb      | Visual storytelling on causes of death globally.                               |
+| visualization_wordClouds.ipynb        | Creates engaging word clouds based on text data (e.g., reasons for purchases). |
 
 ---
 ## Project Goals ##
@@ -23,13 +23,12 @@ Welcome to my creative data storytelling project, where I explore **consumer beh
 
 ---
 ## Datasets Used ##
-| Notebook                                                               | Datasets Used           |
-|------------------------------------------------------------------------|-------------------------|
-| [clothes_habits.ipynb](./clothes_habits.ipynb)                         | [shopping_trends.csv](./data/shopping_trends.csv) |
-| [visualization_of_mortality.ipynb](./visualization_of_mortality.ipynb) |                         |
-| [Visualization_Maps.ipynb](.Visualization_Maps.ipynb)                  |                         |         
-| [Visualization_WordClouds.ipynb](.Visualization_WordClouds.ipynb)      |                         |
-| [creating_data_for_map.ipynb](.creating_data_for_map.ipynb)            |                         |
+| Notebook                                                                   | Datasets Used           |
+|----------------------------------------------------------------------------|-------------------------|
+| [visualization_clothes_habits.ipynb](./visualization_clothes_habits.ipynb) | [shopping_trends.csv](./data/shopping_trends.csv) |
+| [visualization_maps.ipynb](./visualization_of_mortality.ipynb)             | []                        |
+| [visualization_of_mortality.ipynb](.Visualization_Maps.ipynb)              | []                        |         
+| [visualization_wordClouds.ipynb](.Visualization_WordClouds.ipynb)          | []                        |
 
 ---
 ## Key Highlights ##
