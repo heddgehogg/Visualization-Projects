@@ -26,9 +26,9 @@ Welcome to my creative data storytelling project, where I explore **consumer beh
 | Notebook                                                                   | Datasets Used                                                                             |
 |----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | [visualization_clothes_habits.ipynb](./visualization_clothes_habits.ipynb) | [shopping_trends.csv](./data/shopping_trends.csv)                                         |
-| [visualization_maps.ipynb](./visualization_of_mortality.ipynb)             | [Police_Department_Incidents_-_2016_.csv](./data/Police_Department_Incidents_-_2016_.csv) |
-| [visualization_of_mortality.ipynb](.Visualization_Maps.ipynb)              | [deaths.csv](./data/deaths.csv)                                                           |         
-| [visualization_wordClouds.ipynb](.Visualization_WordClouds.ipynb)          | [alice_novel.txt](./alice_novel.txt)                                                      |
+| [visualization_maps.ipynb](./visualization_maps.ipynb)                     | [Police_Department_Incidents_-_2016_.csv](./data/Police_Department_Incidents_-_2016_.csv) |
+| [visualization_of_mortality.ipynb](.visualization_of_mortality.ipynb)      | [deaths.csv](./data/deaths.csv)                                                           |         
+| [visualization_wordClouds.ipynb](.visualization_wordClouds.ipynb)          | [alice_novel.txt](./data/alice_novel.txt)                                                 |
 
 ---
 ## Key Highlights ##
