@@ -23,12 +23,12 @@ Welcome to my creative data storytelling project, where I explore **consumer beh
 
 ---
 ## Datasets Used ##
-| Notebook                                                                   | Datasets Used           |
-|----------------------------------------------------------------------------|-------------------------|
-| [visualization_clothes_habits.ipynb](./visualization_clothes_habits.ipynb) | [shopping_trends.csv](./data/shopping_trends.csv) |
-| [visualization_maps.ipynb](./visualization_of_mortality.ipynb)             | []                        |
-| [visualization_of_mortality.ipynb](.Visualization_Maps.ipynb)              | []                        |         
-| [visualization_wordClouds.ipynb](.Visualization_WordClouds.ipynb)          | []                        |
+| Notebook                                                                   | Datasets Used                                                                             |
+|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| [visualization_clothes_habits.ipynb](./visualization_clothes_habits.ipynb) | [shopping_trends.csv](./data/shopping_trends.csv)                                         |
+| [visualization_maps.ipynb](./visualization_of_mortality.ipynb)             | [Police_Department_Incidents_-_2016_.csv](./data/Police_Department_Incidents_-_2016_.csv) |
+| [visualization_of_mortality.ipynb](.Visualization_Maps.ipynb)              | [deaths.csv](./data/deaths.csv)                                                           |         
+| [visualization_wordClouds.ipynb](.Visualization_WordClouds.ipynb)          | [alice_novel.txt](./alice_novel.txt)                                                      |
 
 ---
 ## Key Highlights ##
